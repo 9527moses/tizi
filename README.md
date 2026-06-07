@@ -1,8 +1,18 @@
-# 2026 机场推荐与使用指南
+# 2026 机场推荐：稳定好用的翻墙机场、VPN 替代路线与科学上网指南
 
 以机场推荐为主，以教程为辅助。
 
 这个仓库现在更像一个持续更新的推荐站，而不是单纯的教程集合。
+
+如果你搜的是这些词：
+
+- `机场推荐`
+- `稳定机场推荐`
+- `翻墙机场推荐`
+- `科学上网机场推荐`
+- `ChatGPT 机场推荐`
+
+那这里的读法会更接近“先分场景，再看路线，再看具体机场”，而不是先给你一长串名字。
 
 它的核心目标是：
 
@@ -21,6 +31,29 @@
 3. [新手机场推荐：第一次怎么选，不容易踩坑](docs/recommendations/beginner-airport-recommendations.md)
 4. [ChatGPT 机场推荐：稳定访问更该看什么](docs/recommendations/chatgpt-airport-recommendations.md)
 5. [路由器机场推荐：全屋代理和 OpenClash 怎么选](docs/recommendations/router-airport-recommendations.md)
+
+## 热门推荐速览
+
+如果你只想先看一个更像“排行榜首页”的短表，可以先看这里：
+
+| 路线 | 当前更适合谁 | 当前状态 | 入口 |
+|---|---|---|---|
+| Roxi | 想少折腾、尽快跑通的人 | 已上线 | [查看](docs/recommendations/roxi-review.md) |
+| 隐云 | 想在成品感和自由度之间找平衡的人 | 观察中 | [查看](docs/recommendations/yinyun-observation.md) |
+| WgetCloud | 想看高预算稳定路线的人 | 观察中 | [查看](docs/recommendations/wgetcloud-observation.md) |
+| 唯兔云 | 想看低门槛和流媒体路线的人 | 观察中 | [查看](docs/recommendations/weitu-observation.md) |
+| 悠兔 | 想补小流量备用位的人 | 观察中 | [查看](docs/recommendations/youtu-observation.md) |
+| Fastlink | 想兼顾日常和观影的人 | 观察中 | [查看](docs/recommendations/fastlink-observation.md) |
+
+## 今年怎么选更省时间
+
+如果只说一句话：
+
+- 新手先看 `少折腾`
+- AI 用户先看 `稳定性`
+- 路由器用户先看 `兼容性`
+- 预算敏感用户先看 `门槛`
+- 已有主力的人先看 `备用位`
 
 ## 当前推荐层
 
@@ -54,6 +87,8 @@
 - 想做全屋代理和 OpenClash：[路由器机场推荐](docs/recommendations/router-airport-recommendations.md)
 - 想先理解怎么挑，不急着看名单：[新手怎么选机场](docs/recommendations/how-to-choose-an-airport.md)
 - 想比较 Hiddify 和 OpenClash 路线：[Hiddify 和 OpenClash 怎么选](docs/recommendations/hiddify-vs-openclash.md)
+- 想看“便宜机场推荐到底靠不靠谱”：[便宜机场推荐靠谱吗](docs/recommendations/cheap-airport-recommendations-worth-it.md)
+- 想看“为什么不要只看测速图”：[机场推荐为什么不要只看测速图](docs/recommendations/why-not-just-look-at-speed-tests.md)
 
 ## 教程辅助入口
 
