@@ -14,6 +14,19 @@
 
 如果你只想先看结论，可以直接看下面这张推荐表。
 
+## 榜单首页速览
+
+如果你是从搜索进来的，不想先读完整篇，可以先看这张总入口表：
+
+| 你现在更像哪类用户 | 更适合先看什么 | 直达入口 |
+|---|---|---|
+| 完全新手，想少折腾 | 成品型和新手路线 | [新手机场推荐](beginner-airport-recommendations.md) |
+| 主要想把 ChatGPT 跑稳 | 稳定性和排障优先路线 | [ChatGPT 机场推荐](chatgpt-airport-recommendations.md) |
+| 想做路由器和全屋代理 | OpenClash 和多设备路线 | [路由器机场推荐](router-airport-recommendations.md) |
+| 预算更敏感 | 低门槛和更低预算路线 | [低门槛机场推荐](budget-airport-recommendations.md) |
+| 已经有主力，只想补一个备用位 | 小流量和第二线路 | [小流量机场推荐](small-traffic-airport-recommendations.md) |
+| 想兼顾看剧和日常使用 | 流媒体和日常平衡路线 | [流媒体机场推荐](streaming-airport-recommendations.md) |
+
 ## 近期变更摘要
 
 如果你不是第一次来看，先看这一块会更省时间：
@@ -96,6 +109,74 @@
 - [OpenClash 新手配置教程](../tutorials/openclash-quickstart.md)
 - [路由器全家代理常见问题 FAQ](../faq/router-faq.md)
 
+### 低门槛 / 预算敏感路线
+
+**更适合谁**
+
+- 想先压低门槛再决定要不要长期用的人
+- 预算更敏感、想先看更轻量路线的人
+- 想先看低门槛和流媒体结合路线的人
+
+**不太适合谁**
+
+- 只想优先看高端稳定办公路线的人
+- 不接受年付或更固定门槛的人
+
+**一句话结论**
+
+这条路线更适合先看门槛和承接能力，而不是只盯最低价格。
+
+相关入口：
+
+- [低门槛机场推荐：预算敏感用户先看什么](budget-airport-recommendations.md)
+- [唯兔云 观察版：低门槛流媒体路线为什么值得留意](weitu-observation.md)
+
+### 小流量 / 备用位路线
+
+**更适合谁**
+
+- 已经有主力方案，还想补第二线路的人
+- 使用不重，但想保留一个稳定备用位的人
+- 想看年付小流量路线的人
+
+**不太适合谁**
+
+- 需要高流量主力的人
+- 想一步到位只保留一条主线的人
+
+**一句话结论**
+
+这条路线更像补位策略，重点是第二线路值不值得单独准备。
+
+相关入口：
+
+- [小流量机场推荐：备用位和轻度使用怎么选](small-traffic-airport-recommendations.md)
+- [悠兔 观察版：小流量备用路线值不值得继续看](youtu-observation.md)
+- [BoostNet 观察版：高配备用路线值不值得继续看](boostnet-observation.md)
+
+### 观影 / 日常平衡路线
+
+**更适合谁**
+
+- 想把日常使用和看剧放在一起考虑的人
+- 不想一上来就冲高预算的人
+- 想找一条更平衡的路线的人
+
+**不太适合谁**
+
+- 只想先看极致低价的人
+- 只想看高端办公路线的人
+
+**一句话结论**
+
+这条路线重点看“省不省心地兼顾”，而不是某一个单点极致。
+
+相关入口：
+
+- [流媒体机场推荐：日常和观影路线怎么选](streaming-airport-recommendations.md)
+- [Fastlink 观察版：日常与观影路线的候选位](fastlink-observation.md)
+- [flybit 观察版：偏日常与备用路线的候选位](flybit-observation.md)
+
 ## 当前推荐层说明
 
 先说明一下这一区的规则：
@@ -144,8 +225,8 @@
 
 当前第二批候补池：
 
-- 已补观察页：[奈云 观察版：老牌路线为什么值得继续看](nayun-observation.md)、[XXYUN 观察版：日常与性价比路线的候选位](xxyun-observation.md)、[flybit 观察版：偏日常与备用路线的候选位](flybit-observation.md)、[WgetCloud 观察版：高预算稳定路线为什么值得看](wgetcloud-observation.md)、[TAG 观察版：多地区与游戏路线的候选位](tag-observation.md)、[Nexitally 观察版：高端主力路线为什么值得单独观察](nexitally-observation.md)、[BoostNet 观察版：高配备用路线值不值得继续看](boostnet-observation.md)、[悠兔 观察版：小流量备用路线值不值得继续看](youtu-observation.md)、[唯兔云 观察版：低门槛流媒体路线为什么值得留意](weitu-observation.md)、[Fastlink 观察版：日常与观影路线的候选位](fastlink-observation.md)
-- 候补中待建页：`大哥云`
+- 已补观察页：[奈云 观察版：老牌路线为什么值得继续看](nayun-observation.md)、[XXYUN 观察版：日常与性价比路线的候选位](xxyun-observation.md)、[flybit 观察版：偏日常与备用路线的候选位](flybit-observation.md)、[WgetCloud 观察版：高预算稳定路线为什么值得看](wgetcloud-observation.md)、[TAG 观察版：多地区与游戏路线的候选位](tag-observation.md)、[Nexitally 观察版：高端主力路线为什么值得单独观察](nexitally-observation.md)、[BoostNet 观察版：高配备用路线值不值得继续看](boostnet-observation.md)、[悠兔 观察版：小流量备用路线值不值得继续看](youtu-observation.md)、[唯兔云 观察版：低门槛流媒体路线为什么值得留意](weitu-observation.md)、[Fastlink 观察版：日常与观影路线的候选位](fastlink-observation.md)、[大哥云 观察版：试用路线和客户端限制值不值得看](dageyun-observation.md)
+- 当前待建页：暂无
 
 ### 怎么用这套三级导航
 
@@ -167,7 +248,7 @@
 | 奈云 | 第三级：第二批候补池 | 观察中 | 2026-06-07 | 2026-06-07 | 已同步 | [查看](nayun-observation.md) |
 | XXYUN | 第三级：第二批候补池 | 观察中 | 2026-06-07 | 2026-06-07 | 已同步 | [查看](xxyun-observation.md) |
 | flybit | 第三级：第二批候补池 | 观察中 | 2026-06-07 | 2026-06-07 | 已同步 | [查看](flybit-observation.md) |
-| 大哥云 | 第三级：第二批候补池 | 候补中 | 2026-06-07 | 暂未建页 | 待建页 | 暂未建页 |
+| 大哥云 | 第三级：第二批候补池 | 观察中 | 2026-06-07 | 2026-06-07 | 已同步 | [查看](dageyun-observation.md) |
 | WgetCloud | 第三级：第二批候补池 | 观察中 | 2026-06-07 | 2026-06-07 | 已同步 | [查看](wgetcloud-observation.md) |
 | TAG | 第三级：第二批候补池 | 观察中 | 2026-06-07 | 2026-06-07 | 已同步 | [查看](tag-observation.md) |
 | Nexitally | 第三级：第二批候补池 | 观察中 | 2026-06-07 | 2026-06-07 | 已同步 | [查看](nexitally-observation.md) |
@@ -276,7 +357,7 @@
 | 悠兔 | 小流量备用与年付候选位 | 观察中 | [查看](youtu-observation.md) |
 | 唯兔云 | 低门槛与流媒体候选位 | 观察中 | [查看](weitu-observation.md) |
 | Fastlink | 日常与观影平衡候选位 | 观察中 | [查看](fastlink-observation.md) |
-| 大哥云 | 候补中，等待更稳定官网入口和更多公开信息 | 候补中 | 暂未建页 |
+| 大哥云 | 试用路线与客户端限制候选位 | 观察中 | [查看](dageyun-observation.md) |
 
 ### 第二批候补位怎么用
 
@@ -288,6 +369,7 @@
 - 想看小流量备用路线：先看 `悠兔`
 - 想看低门槛和流媒体路线：先看 `唯兔云`
 - 想看日常与观影的平衡路线：先看 `Fastlink`
+- 想看老牌试用和客户端限制路线：先看 `大哥云`
 - 等我们后续补更多独立验证后，再决定是否往前提
 
 ### Roxi

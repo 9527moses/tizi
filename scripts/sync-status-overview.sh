@@ -76,6 +76,9 @@ detail_path_for_name() {
     "Fastlink")
       printf '%s' "fastlink-observation.md"
       ;;
+    "大哥云")
+      printf '%s' "dageyun-observation.md"
+      ;;
     *)
       printf '%s' ""
       ;;

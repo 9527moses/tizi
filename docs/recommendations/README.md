@@ -15,6 +15,16 @@
 | ChatGPT 场景 | 核心需求是 AI 和稳定访问的人 | [ChatGPT 机场推荐：稳定访问更该看什么](chatgpt-airport-recommendations.md) |
 | 路由器场景 | 想做全屋代理、OpenClash 和多设备的人 | [路由器机场推荐：全屋代理和 OpenClash 怎么选](router-airport-recommendations.md) |
 
+## 第二轮场景入口
+
+如果你已经知道自己想找哪种路线，下面这几条更快：
+
+| 场景 | 适合谁 | 直达页 |
+|---|---|---|
+| 低门槛路线 | 想先看预算更敏感、门槛更低的方案的人 | [低门槛机场推荐：预算敏感用户先看什么](budget-airport-recommendations.md) |
+| 小流量备用位 | 已经有主力方案，还想补第二线路的人 | [小流量机场推荐：备用位和轻度使用怎么选](small-traffic-airport-recommendations.md) |
+| 观影与日常路线 | 想找看剧和日常一起兼顾的人 | [流媒体机场推荐：日常和观影路线怎么选](streaming-airport-recommendations.md) |
+
 ## 当前推荐层怎么读
 
 ### 正式位
@@ -39,6 +49,7 @@
 - [悠兔 观察版：小流量备用路线值不值得继续看](youtu-observation.md)
 - [唯兔云 观察版：低门槛流媒体路线为什么值得留意](weitu-observation.md)
 - [Fastlink 观察版：日常与观影路线的候选位](fastlink-observation.md)
+- [大哥云 观察版：试用路线和客户端限制值不值得看](dageyun-observation.md)
 
 ## 如果你只按需求读
 
@@ -48,6 +59,7 @@
 - 想看低门槛路线：先看 [唯兔云](weitu-observation.md)
 - 想看小流量备用位：先看 [悠兔](youtu-observation.md) 和 [BoostNet](boostnet-observation.md)
 - 想看日常与观影平衡路线：先看 [Fastlink](fastlink-observation.md) 和 [flybit](flybit-observation.md)
+- 想看老牌试用路线：先看 [大哥云](dageyun-observation.md)
 
 ## 教程只在什么时候看
 
