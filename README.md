@@ -149,6 +149,10 @@
 - 想看“电脑翻墙推荐”：[电脑翻墙推荐](docs/recommendations/computer-cross-border-recommendations.md)
 - 想看“机场推荐试用一周怎么判断”：[机场推荐试用一周怎么判断](docs/recommendations/one-week-trial-checklist.md)
 - 想看“家用翻墙推荐”：[家用翻墙推荐](docs/recommendations/home-cross-border-recommendations.md)
+- 想看“翻墙老是掉线怎么办”：[翻墙老是掉线怎么办](docs/recommendations/why-does-vpn-keep-disconnecting.md)
+- 想看“ChatGPT 转圈怎么办”：[ChatGPT 转圈怎么办](docs/recommendations/chatgpt-loading-forever-fix.md)
+- 想看“OpenClash 导入订阅失败怎么办”：[OpenClash 导入订阅失败怎么办](docs/recommendations/openclash-subscription-import-failed.md)
+- 想看“iPhone VPN 已连接但打不开怎么办”：[iPhone VPN 已连接但打不开怎么办](docs/recommendations/iphone-vpn-connected-but-not-working.md)
 - 想直接看“翻墙机场推荐”： [翻墙机场推荐](docs/recommendations/cross-border-airport-recommendations.md)
 - 想直接看“VPN替代推荐”： [VPN替代推荐](docs/recommendations/vpn-alternatives-recommendations.md)
 

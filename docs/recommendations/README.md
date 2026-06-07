@@ -71,6 +71,10 @@
 - [电脑翻墙推荐：桌面用户怎么选更不容易踩坑](computer-cross-border-recommendations.md)
 - [机场推荐试用一周怎么判断：7 天里重点看什么，才知道值不值得留](one-week-trial-checklist.md)
 - [家用翻墙推荐：全家设备场景到底该先看什么](home-cross-border-recommendations.md)
+- [翻墙老是掉线怎么办：先查线路，还是先查本地设置](why-does-vpn-keep-disconnecting.md)
+- [ChatGPT 转圈怎么办：先换节点，还是先查浏览器和代理模式](chatgpt-loading-forever-fix.md)
+- [OpenClash 导入订阅失败怎么办：先查链接，还是先查规则和配置](openclash-subscription-import-failed.md)
+- [iPhone VPN 已连接但打不开怎么办：先查授权，还是先查节点和网络切换](iphone-vpn-connected-but-not-working.md)
 - [翻墙机场推荐：稳定好用的外网路线怎么选](cross-border-airport-recommendations.md)
 - [VPN替代推荐：为什么越来越多人改用机场路线](vpn-alternatives-recommendations.md)
 
