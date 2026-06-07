@@ -212,3 +212,9 @@
 
 - [2026 机场推荐：新手、ChatGPT、路由器场景怎么选](airport-guide-2026.md)
 - [推荐导航页：先看场景，再看具体机场](README.md)
+
+## 相关场景继续看
+
+- 如果你接下来核心需求变成 AI 稳定访问：看 [ChatGPT 机场推荐](chatgpt-airport-recommendations.md)
+- 如果你后面准备上路由器：看 [路由器机场推荐](router-airport-recommendations.md)
+- 如果你预算更敏感：看 [低门槛机场推荐](budget-airport-recommendations.md)

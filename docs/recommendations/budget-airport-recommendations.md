@@ -74,3 +74,9 @@
 - [XXYUN 观察版：日常与性价比路线的候选位](xxyun-observation.md)
 - [大哥云 观察版：试用路线和客户端限制值不值得看](dageyun-observation.md)
 - [2026 机场推荐：新手、ChatGPT、路由器场景怎么选](airport-guide-2026.md)
+
+## 相关场景继续看
+
+- 如果你预算不高，但更想补备用位：看 [小流量机场推荐](small-traffic-airport-recommendations.md)
+- 如果你更关心看剧和日常兼顾：看 [流媒体机场推荐](streaming-airport-recommendations.md)
+- 如果你其实更想先少折腾：看 [新手机场推荐](beginner-airport-recommendations.md)

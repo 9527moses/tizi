@@ -188,3 +188,9 @@ ChatGPT 场景里，能不能快速换节点、换地区，比单次测速截图
 - [ChatGPT 无法访问时的排查清单](../tutorials/chatgpt-troubleshooting.md)
 - [2026 机场推荐：新手、ChatGPT、路由器场景怎么选](airport-guide-2026.md)
 - [推荐导航页：先看场景，再看具体机场](README.md)
+
+## 相关场景继续看
+
+- 如果你其实更在意少折腾和上手速度：看 [新手机场推荐](beginner-airport-recommendations.md)
+- 如果你后面准备接入路由器：看 [路由器机场推荐](router-airport-recommendations.md)
+- 如果你想继续比较高预算稳定路线：看 [流媒体机场推荐](streaming-airport-recommendations.md)

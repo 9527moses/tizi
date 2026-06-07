@@ -170,3 +170,9 @@
 - [路由器全家代理常见问题 FAQ](../faq/router-faq.md)
 - [2026 机场推荐：新手、ChatGPT、路由器场景怎么选](airport-guide-2026.md)
 - [推荐导航页：先看场景，再看具体机场](README.md)
+
+## 相关场景继续看
+
+- 如果你还没跑通第一台设备：看 [新手机场推荐](beginner-airport-recommendations.md)
+- 如果你主要目标其实是 AI：看 [ChatGPT 机场推荐](chatgpt-airport-recommendations.md)
+- 如果你想继续比较多设备之外的平衡路线：看 [流媒体机场推荐](streaming-airport-recommendations.md)
