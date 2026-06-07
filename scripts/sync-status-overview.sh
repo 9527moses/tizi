@@ -67,6 +67,15 @@ detail_path_for_name() {
     "BoostNet")
       printf '%s' "boostnet-observation.md"
       ;;
+    "悠兔")
+      printf '%s' "youtu-observation.md"
+      ;;
+    "唯兔云")
+      printf '%s' "weitu-observation.md"
+      ;;
+    "Fastlink")
+      printf '%s' "fastlink-observation.md"
+      ;;
     *)
       printf '%s' ""
       ;;

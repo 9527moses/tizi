@@ -21,6 +21,7 @@
 - `2026-06-07`：补上三级导航，现在可以按正式位、首批重点观察位、第二批候补池三层来读
 - `2026-06-07`：新增横向对比表、图例说明和评分依据，先看路线差异再看具体名字
 - `2026-06-07`：补齐 Roxi、SSOne、隐云、闪狐云、奈云、XXYUN、flybit 的详情页或观察页
+- `2026-06-07`：补上悠兔、唯兔云、Fastlink 观察页，把低门槛 / 小流量 / 日常观影这条线接起来
 - `2026-06-07`：第二批候补池扩到 10+ 个可读位，并补上 WgetCloud、TAG、Nexitally、BoostNet 观察页
 - `2026-06-07`：内部已经上线每日维护和每周汇总机制，公开页继续按实质变化更新，不做无意义改日期
 
@@ -143,8 +144,8 @@
 
 当前第二批候补池：
 
-- 已补观察页：[奈云 观察版：老牌路线为什么值得继续看](nayun-observation.md)、[XXYUN 观察版：日常与性价比路线的候选位](xxyun-observation.md)、[flybit 观察版：偏日常与备用路线的候选位](flybit-observation.md)、[WgetCloud 观察版：高预算稳定路线为什么值得看](wgetcloud-observation.md)、[TAG 观察版：多地区与游戏路线的候选位](tag-observation.md)、[Nexitally 观察版：高端主力路线为什么值得单独观察](nexitally-observation.md)、[BoostNet 观察版：高配备用路线值不值得继续看](boostnet-observation.md)
-- 候补中待建页：`大哥云`、`悠兔`、`唯兔云`、`Fastlink`
+- 已补观察页：[奈云 观察版：老牌路线为什么值得继续看](nayun-observation.md)、[XXYUN 观察版：日常与性价比路线的候选位](xxyun-observation.md)、[flybit 观察版：偏日常与备用路线的候选位](flybit-observation.md)、[WgetCloud 观察版：高预算稳定路线为什么值得看](wgetcloud-observation.md)、[TAG 观察版：多地区与游戏路线的候选位](tag-observation.md)、[Nexitally 观察版：高端主力路线为什么值得单独观察](nexitally-observation.md)、[BoostNet 观察版：高配备用路线值不值得继续看](boostnet-observation.md)、[悠兔 观察版：小流量备用路线值不值得继续看](youtu-observation.md)、[唯兔云 观察版：低门槛流媒体路线为什么值得留意](weitu-observation.md)、[Fastlink 观察版：日常与观影路线的候选位](fastlink-observation.md)
+- 候补中待建页：`大哥云`
 
 ### 怎么用这套三级导航
 
@@ -171,9 +172,9 @@
 | TAG | 第三级：第二批候补池 | 观察中 | 2026-06-07 | 2026-06-07 | 已同步 | [查看](tag-observation.md) |
 | Nexitally | 第三级：第二批候补池 | 观察中 | 2026-06-07 | 2026-06-07 | 已同步 | [查看](nexitally-observation.md) |
 | BoostNet | 第三级：第二批候补池 | 观察中 | 2026-06-07 | 2026-06-07 | 已同步 | [查看](boostnet-observation.md) |
-| 悠兔 | 第三级：第二批候补池 | 候补中 | 2026-06-07 | 暂未建页 | 待建页 | 暂未建页 |
-| 唯兔云 | 第三级：第二批候补池 | 候补中 | 2026-06-07 | 暂未建页 | 待建页 | 暂未建页 |
-| Fastlink | 第三级：第二批候补池 | 候补中 | 2026-06-07 | 暂未建页 | 待建页 | 暂未建页 |
+| 悠兔 | 第三级：第二批候补池 | 观察中 | 2026-06-07 | 2026-06-07 | 已同步 | [查看](youtu-observation.md) |
+| 唯兔云 | 第三级：第二批候补池 | 观察中 | 2026-06-07 | 2026-06-07 | 已同步 | [查看](weitu-observation.md) |
+| Fastlink | 第三级：第二批候补池 | 观察中 | 2026-06-07 | 2026-06-07 | 已同步 | [查看](fastlink-observation.md) |
 
 ### 这个联动区怎么读
 
@@ -272,10 +273,10 @@
 | TAG | 多地区、游戏与家宽候选位 | 观察中 | [查看](tag-observation.md) |
 | Nexitally | 高端主力、商务办公候选位 | 观察中 | [查看](nexitally-observation.md) |
 | BoostNet | 稳定与高配备用候选位 | 观察中 | [查看](boostnet-observation.md) |
+| 悠兔 | 小流量备用与年付候选位 | 观察中 | [查看](youtu-observation.md) |
+| 唯兔云 | 低门槛与流媒体候选位 | 观察中 | [查看](weitu-observation.md) |
+| Fastlink | 日常与观影平衡候选位 | 观察中 | [查看](fastlink-observation.md) |
 | 大哥云 | 候补中，等待更稳定官网入口和更多公开信息 | 候补中 | 暂未建页 |
-| 悠兔 | 候补中，偏小流量备用和年付路线 | 候补中 | 暂未建页 |
-| 唯兔云 | 候补中，偏低门槛和流媒体路线 | 候补中 | 暂未建页 |
-| Fastlink | 候补中，等待继续核对公开入口与套餐结构 | 候补中 | 暂未建页 |
 
 ### 第二批候补位怎么用
 
@@ -284,6 +285,9 @@
 - 想看高预算稳定位：先看 `WgetCloud` 和 `Nexitally`
 - 想看多地区、游戏或家宽路线：先看 `TAG`
 - 想看高配备用位：先看 `BoostNet`
+- 想看小流量备用路线：先看 `悠兔`
+- 想看低门槛和流媒体路线：先看 `唯兔云`
+- 想看日常与观影的平衡路线：先看 `Fastlink`
 - 等我们后续补更多独立验证后，再决定是否往前提
 
 ### Roxi
