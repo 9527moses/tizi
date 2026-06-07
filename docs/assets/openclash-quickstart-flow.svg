@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">OpenClash 新手配置流程图</title>
+  <desc id="desc">展示从进入路由器管理页到导入订阅、使用默认规则、选择代理组和验证设备的完整流程。</desc>
+  <style>
+    .bg { fill: #f5f7fc; }
+    .card { fill: #ffffff; stroke: #d5ddea; stroke-width: 2; }
+    .green { fill: #edf8f0; stroke: #87ba96; }
+    .blue { fill: #eef4ff; stroke: #8cb0e8; }
+    .orange { fill: #fff5e7; stroke: #dfb565; }
+    .title { font: 700 34px -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", sans-serif; fill: #172033; }
+    .subtitle { font: 500 18px -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", sans-serif; fill: #52607a; }
+    .step { font: 700 24px -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", sans-serif; fill: #172033; }
+    .body { font: 500 18px -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", sans-serif; fill: #334155; }
+    .small { font: 500 16px -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", sans-serif; fill: #52607a; }
+    .line { stroke: #8ca0bf; stroke-width: 5; stroke-linecap: round; fill: none; }
+    .badge { fill: #172033; }
+    .badgeText { font: 700 18px -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", sans-serif; fill: #ffffff; }
+  </style>
+
+  <rect class="bg" width="1200" height="760" rx="24"/>
+  <text class="title" x="80" y="92">OpenClash 新手配置闭环</text>
+  <text class="subtitle" x="80" y="127">先导入并跑通默认规则，再去碰 DNS、规则集和更细的优化项</text>
+
+  <g transform="translate(80 180)">
+    <rect class="card green" x="0" y="0" width="300" height="150" rx="24"/>
+    <circle class="badge" cx="34" cy="34" r="18"/>
+    <text class="badgeText" x="28" y="41">1</text>
+    <text class="step" x="28" y="82">进入路由器管理页</text>
+    <text class="body" x="28" y="116">确认已经装好 OpenClash</text>
+  </g>
+
+  <g transform="translate(450 180)">
+    <rect class="card blue" x="0" y="0" width="300" height="150" rx="24"/>
+    <circle class="badge" cx="34" cy="34" r="18"/>
+    <text class="badgeText" x="28" y="41">2</text>
+    <text class="step" x="28" y="82">导入订阅</text>
+    <text class="body" x="28" y="116">先确认配置能成功下载</text>
+  </g>
+
+  <g transform="translate(820 180)">
+    <rect class="card green" x="0" y="0" width="300" height="150" rx="24"/>
+    <circle class="badge" cx="34" cy="34" r="18"/>
+    <text class="badgeText" x="28" y="41">3</text>
+    <text class="step" x="28" y="82">使用默认规则</text>
+    <text class="body" x="28" y="116">先让国内外分流跑起来</text>
+  </g>
+
+  <path class="line" d="M380 255 H450"/>
+  <polygon points="450,255 420,240 420,270" fill="#8ca0bf"/>
+  <path class="line" d="M750 255 H820"/>
+  <polygon points="820,255 790,240 790,270" fill="#8ca0bf"/>
+
+  <g transform="translate(240 410)">
+    <rect class="card" x="0" y="0" width="320" height="150" rx="24"/>
+    <circle class="badge" cx="34" cy="34" r="18"/>
+    <text class="badgeText" x="28" y="41">4</text>
+    <text class="step" x="28" y="82">选择默认代理组</text>
+    <text class="body" x="28" y="116">优先用自动选择或稳定地区</text>
+  </g>
+
+  <g transform="translate(650 410)">
+    <rect class="card orange" x="0" y="0" width="320" height="150" rx="24"/>
+    <circle class="badge" cx="34" cy="34" r="18"/>
+    <text class="badgeText" x="28" y="41">5</text>
+    <text class="step" x="28" y="82">验证全屋设备</text>
+    <text class="body" x="28" y="116">手机 电脑 电视 游戏机都试一遍</text>
+  </g>
+
+  <path class="line" d="M970 330 V370 H810"/>
+  <polygon points="810,370 840,355 840,385" fill="#8ca0bf"/>
+  <path class="line" d="M560 485 H650"/>
+  <polygon points="650,485 620,470 620,500" fill="#8ca0bf"/>
+
+  <rect class="card" x="80" y="620" width="1040" height="90" rx="22"/>
+  <text class="body" x="120" y="675">新手排查顺序：更新订阅 → 换代理组 → 检查规则模式 → 检查 DNS → 重启 OpenClash → 重启设备</text>
+</svg>
