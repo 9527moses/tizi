@@ -44,13 +44,19 @@
 
 - 本地生成：`scripts/create-daily-check.sh`
 - 本地周汇总：`scripts/create-weekly-summary.sh`
+- 总页联动刷新：`scripts/sync-status-overview.sh`
 - 仓库定时任务：`.github/workflows/daily-maintenance.yml`
 - 仓库周汇总任务：`.github/workflows/weekly-summary.yml`
 - 每天北京时间 `09:30` 会自动创建当天的内部检查页
 - 每周日北京时间 `10:15` 会自动创建当周汇总页
 - 也可以在 GitHub Actions 里手动触发，并补生成指定日期的记录
 
-这套自动化只负责创建内部研究层的日更记录和周汇总骨架，不会自动改公开推荐页。
+这套自动化目前包含两类能力：
+
+- 自动创建内部研究层的日更记录和周汇总骨架
+- 半自动刷新公开总页里的状态联动总览
+
+其中总页联动刷新仍建议在你确认详情页和候选状态总表都更新后，再手动运行一次。
 
 ## 这里和公开页的关系
 
