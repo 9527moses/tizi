@@ -153,6 +153,10 @@
 - 想看“ChatGPT 转圈怎么办”：[ChatGPT 转圈怎么办](docs/recommendations/chatgpt-loading-forever-fix.md)
 - 想看“OpenClash 导入订阅失败怎么办”：[OpenClash 导入订阅失败怎么办](docs/recommendations/openclash-subscription-import-failed.md)
 - 想看“iPhone VPN 已连接但打不开怎么办”：[iPhone VPN 已连接但打不开怎么办](docs/recommendations/iphone-vpn-connected-but-not-working.md)
+- 想看“Roxi 连上了但打不开怎么办”：[Roxi 连上了但打不开怎么办](docs/recommendations/roxi-connected-but-not-working.md)
+- 想看“Roxi ChatGPT 转圈怎么办”：[Roxi ChatGPT 转圈怎么办](docs/recommendations/roxi-chatgpt-loading-fix.md)
+- 想看“Roxi OpenClash 导入失败怎么办”：[Roxi OpenClash 导入失败怎么办](docs/recommendations/roxi-openclash-import-failed.md)
+- 想看“Roxi iPhone 已连接但打不开怎么办”：[Roxi iPhone 已连接但打不开怎么办](docs/recommendations/roxi-iphone-connected-but-not-working.md)
 - 想直接看“翻墙机场推荐”： [翻墙机场推荐](docs/recommendations/cross-border-airport-recommendations.md)
 - 想直接看“VPN替代推荐”： [VPN替代推荐](docs/recommendations/vpn-alternatives-recommendations.md)
 

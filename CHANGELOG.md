@@ -20,6 +20,7 @@
 - 新增 机场试用推荐 / OpenClash 机场推荐 / 苹果翻墙推荐 / Windows 翻墙推荐 4 个更大通用词页
 - 新增 Mac 翻墙推荐 / 电脑翻墙推荐 / 机场推荐试用一周怎么判断 / 家用翻墙推荐 4 个设备与家庭场景大词页
 - 新增 翻墙老是掉线怎么办 / ChatGPT 转圈怎么办 / OpenClash 导入订阅失败怎么办 / iPhone VPN 已连接但打不开怎么办 4 个问题型大词页
+- 新增 Roxi 连上了但打不开怎么办 / Roxi ChatGPT 转圈怎么办 / Roxi OpenClash 导入失败怎么办 / Roxi iPhone 已连接但打不开怎么办 4 个问题型品牌词页
 - 新增仓库首页 README
 - 新增 Hiddify 新手上手指南
 - 新增 OpenClash 新手配置教程

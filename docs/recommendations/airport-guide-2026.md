@@ -41,6 +41,10 @@
 - `ChatGPT 转圈怎么办`
 - `OpenClash 导入订阅失败怎么办`
 - `iPhone VPN 已连接但打不开怎么办`
+- `Roxi 连上了但打不开怎么办`
+- `Roxi ChatGPT 转圈怎么办`
+- `Roxi OpenClash 导入失败怎么办`
+- `Roxi iPhone 已连接但打不开怎么办`
 - `翻墙机场推荐`
 - `VPN 替代推荐`
 - `ChatGPT 机场推荐`
@@ -130,6 +134,7 @@
 | 想直接看更大通用词页 | 机场试用 / OpenClash / 苹果 / Windows | [机场试用推荐](airport-trial-recommendations.md) / [OpenClash 机场推荐](openclash-airport-recommendations.md) / [苹果翻墙推荐](iphone-cross-border-recommendations.md) / [Windows 翻墙推荐](windows-cross-border-recommendations.md) |
 | 想继续看设备和家庭场景大词 | Mac / 电脑 / 试用一周 / 家用 | [Mac 翻墙推荐](macos-cross-border-recommendations.md) / [电脑翻墙推荐](computer-cross-border-recommendations.md) / [机场推荐试用一周怎么判断](one-week-trial-checklist.md) / [家用翻墙推荐](home-cross-border-recommendations.md) |
 | 想直接看问题型大词页 | 掉线 / 转圈 / 导入失败 / 已连接但打不开 | [翻墙老是掉线怎么办](why-does-vpn-keep-disconnecting.md) / [ChatGPT 转圈怎么办](chatgpt-loading-forever-fix.md) / [OpenClash 导入订阅失败怎么办](openclash-subscription-import-failed.md) / [iPhone VPN 已连接但打不开怎么办](iphone-vpn-connected-but-not-working.md) |
+| 想直接看问题型品牌词页 | Roxi 打不开 / Roxi ChatGPT 转圈 / Roxi OpenClash 导入失败 / Roxi iPhone 已连接但打不开 | [Roxi 连上了但打不开怎么办](roxi-connected-but-not-working.md) / [Roxi ChatGPT 转圈怎么办](roxi-chatgpt-loading-fix.md) / [Roxi OpenClash 导入失败怎么办](roxi-openclash-import-failed.md) / [Roxi iPhone 已连接但打不开怎么办](roxi-iphone-connected-but-not-working.md) |
 
 ## 近期变更摘要
 
@@ -148,6 +153,7 @@
 - `2026-06-07`：新增 机场试用推荐 / OpenClash 机场推荐 / 苹果翻墙推荐 / Windows 翻墙推荐 4 个更大通用词页
 - `2026-06-07`：新增 Mac 翻墙推荐 / 电脑翻墙推荐 / 机场推荐试用一周怎么判断 / 家用翻墙推荐 4 个设备与家庭场景大词页
 - `2026-06-07`：新增 翻墙老是掉线怎么办 / ChatGPT 转圈怎么办 / OpenClash 导入订阅失败怎么办 / iPhone VPN 已连接但打不开怎么办 4 个问题型大词页
+- `2026-06-07`：新增 Roxi 连上了但打不开怎么办 / Roxi ChatGPT 转圈怎么办 / Roxi OpenClash 导入失败怎么办 / Roxi iPhone 已连接但打不开怎么办 4 个问题型品牌词页
 
 ## 推荐速览
 

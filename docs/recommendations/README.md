@@ -75,6 +75,10 @@
 - [ChatGPT 转圈怎么办：先换节点，还是先查浏览器和代理模式](chatgpt-loading-forever-fix.md)
 - [OpenClash 导入订阅失败怎么办：先查链接，还是先查规则和配置](openclash-subscription-import-failed.md)
 - [iPhone VPN 已连接但打不开怎么办：先查授权，还是先查节点和网络切换](iphone-vpn-connected-but-not-working.md)
+- [Roxi 连上了但打不开怎么办：先查线路，还是先查本地状态](roxi-connected-but-not-working.md)
+- [Roxi ChatGPT 转圈怎么办：先换线路，还是先查浏览器和代理状态](roxi-chatgpt-loading-fix.md)
+- [Roxi OpenClash 导入失败怎么办：先查订阅，还是先查配置和默认组](roxi-openclash-import-failed.md)
+- [Roxi iPhone 已连接但打不开怎么办：先查授权，还是先查节点和网络切换](roxi-iphone-connected-but-not-working.md)
 - [翻墙机场推荐：稳定好用的外网路线怎么选](cross-border-airport-recommendations.md)
 - [VPN替代推荐：为什么越来越多人改用机场路线](vpn-alternatives-recommendations.md)
 
