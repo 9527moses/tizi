@@ -11,6 +11,7 @@
 - `翻墙机场推荐`
 - `科学上网机场推荐`
 - `ChatGPT 机场推荐`
+- `VPN 替代推荐`
 
 那这里的读法会更接近“先分场景，再看路线，再看具体机场”，而不是先给你一长串名字。
 
@@ -89,6 +90,8 @@
 - 想比较 Hiddify 和 OpenClash 路线：[Hiddify 和 OpenClash 怎么选](docs/recommendations/hiddify-vs-openclash.md)
 - 想看“便宜机场推荐到底靠不靠谱”：[便宜机场推荐靠谱吗](docs/recommendations/cheap-airport-recommendations-worth-it.md)
 - 想看“为什么不要只看测速图”：[机场推荐为什么不要只看测速图](docs/recommendations/why-not-just-look-at-speed-tests.md)
+- 想直接看“翻墙机场推荐”： [翻墙机场推荐](docs/recommendations/cross-border-airport-recommendations.md)
+- 想直接看“VPN替代推荐”： [VPN替代推荐](docs/recommendations/vpn-alternatives-recommendations.md)
 
 ## 教程辅助入口
 

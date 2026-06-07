@@ -36,6 +36,8 @@
 | 低门槛 / 预算敏感 | [低门槛机场推荐](budget-airport-recommendations.md) | 想先压低门槛再决定的人 |
 | 小流量 / 备用位 | [小流量机场推荐](small-traffic-airport-recommendations.md) | 已有主力，想补第二线路的人 |
 | 观影 / 日常平衡 | [流媒体机场推荐](streaming-airport-recommendations.md) | 想把看剧和日常放在一起考虑的人 |
+| 翻墙机场推荐 | [翻墙机场推荐](cross-border-airport-recommendations.md) | 想找更像“大词总入口”的人 |
+| VPN 替代路线 | [VPN替代推荐](vpn-alternatives-recommendations.md) | 想知道为什么现在很多人不再优先选传统 VPN 的人 |
 
 ## 热门推荐排行速览
 
@@ -87,6 +89,7 @@
 | 预算更敏感 | 低门槛和更低预算路线 | [低门槛机场推荐](budget-airport-recommendations.md) |
 | 已经有主力，只想补一个备用位 | 小流量和第二线路 | [小流量机场推荐](small-traffic-airport-recommendations.md) |
 | 想兼顾看剧和日常使用 | 流媒体和日常平衡路线 | [流媒体机场推荐](streaming-airport-recommendations.md) |
+| 想直接看更像“大词页”的入口 | 翻墙机场推荐与 VPN 替代路线 | [翻墙机场推荐](cross-border-airport-recommendations.md) / [VPN替代推荐](vpn-alternatives-recommendations.md) |
 
 ## 近期变更摘要
 
