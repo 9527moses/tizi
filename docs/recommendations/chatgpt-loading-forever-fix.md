@@ -107,6 +107,7 @@ ChatGPT 转圈最常见的原因，通常集中在这几类：
 
 ## 继续看这些页更顺
 
+- [科学上网故障排查首页：掉线、ChatGPT 转圈、OpenClash 导入失败先看这里](troubleshooting-hub.md)
 - [ChatGPT 无法访问时的排查清单](../tutorials/chatgpt-troubleshooting.md)
 - [ChatGPT 机场推荐：稳定访问更该看什么](chatgpt-airport-recommendations.md)
 - [ChatGPT 机场推荐怎么判断稳不稳：先看这 6 个信号](chatgpt-airport-stability-checklist.md)

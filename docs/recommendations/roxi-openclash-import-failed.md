@@ -85,6 +85,7 @@ Roxi 这条线明明能用，为什么一接 OpenClash 就不顺。
 
 ## 继续看这些页更顺
 
+- [科学上网故障排查首页：掉线、ChatGPT 转圈、OpenClash 导入失败先看这里](troubleshooting-hub.md)
 - [OpenClash 导入订阅失败怎么办：先查链接，还是先查规则和配置](openclash-subscription-import-failed.md)
 - [Roxi OpenClash 教程：怎么把 Roxi 接进全屋代理](roxi-openclash-tutorial.md)
 - [OpenClash 新手配置教程](../tutorials/openclash-quickstart.md)

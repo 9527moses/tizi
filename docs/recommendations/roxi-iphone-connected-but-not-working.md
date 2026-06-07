@@ -80,6 +80,7 @@
 
 ## 继续看这些页更顺
 
+- [科学上网故障排查首页：掉线、ChatGPT 转圈、OpenClash 导入失败先看这里](troubleshooting-hub.md)
 - [iPhone VPN 已连接但打不开怎么办：先查授权，还是先查节点和网络切换](iphone-vpn-connected-but-not-working.md)
 - [Roxi iPhone 教程：第一次怎么在苹果手机上跑通](roxi-iphone-tutorial.md)
 - [iPhone 科学上网新手教程](../tutorials/iphone-quickstart.md)

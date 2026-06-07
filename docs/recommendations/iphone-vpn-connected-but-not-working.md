@@ -88,6 +88,7 @@ iPhone 在 Wi-Fi 和蜂窝切换后，有时会出现状态没完全恢复的情
 
 ## 继续看这些页更顺
 
+- [科学上网故障排查首页：掉线、ChatGPT 转圈、OpenClash 导入失败先看这里](troubleshooting-hub.md)
 - [iPhone 科学上网新手教程](../tutorials/iphone-quickstart.md)
 - [苹果手机翻墙推荐：iPhone 用户第一次怎么选更省时间](iphone-cross-border-recommendations.md)
 - [翻墙老是掉线怎么办：先查线路，还是先查本地设置](why-does-vpn-keep-disconnecting.md)

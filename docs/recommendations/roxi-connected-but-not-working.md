@@ -88,6 +88,7 @@
 
 ## 继续看这些页更顺
 
+- [科学上网故障排查首页：掉线、ChatGPT 转圈、OpenClash 导入失败先看这里](troubleshooting-hub.md)
 - [翻墙老是掉线怎么办：先查线路，还是先查本地设置](why-does-vpn-keep-disconnecting.md)
 - [Roxi 值不值得先试：免费入口更适合哪些人](roxi-worth-trying-first.md)
 - [Roxi iPhone 教程：第一次怎么在苹果手机上跑通](roxi-iphone-tutorial.md)

@@ -109,6 +109,7 @@
 
 ## 继续看这些页更顺
 
+- [科学上网故障排查首页：掉线、ChatGPT 转圈、OpenClash 导入失败先看这里](troubleshooting-hub.md)
 - [ChatGPT 无法访问时的排查清单](../tutorials/chatgpt-troubleshooting.md)
 - [苹果手机翻墙推荐：iPhone 用户第一次怎么选更省时间](iphone-cross-border-recommendations.md)
 - [Windows 翻墙推荐：电脑用户第一次怎么选更省时间](windows-cross-border-recommendations.md)

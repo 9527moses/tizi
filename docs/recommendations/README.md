@@ -41,6 +41,8 @@
 
 如果你搜的是更具体的问题，先看这几页：
 
+- [科学上网故障排查首页：掉线、ChatGPT 转圈、OpenClash 导入失败先看这里](troubleshooting-hub.md)
+
 - [便宜机场推荐靠谱吗：为什么不要只看价格](cheap-airport-recommendations-worth-it.md)
 - [机场推荐为什么不要只看测速图](why-not-just-look-at-speed-tests.md)
 - [稳定机场推荐怎么选：比便宜更重要的是什么](stable-airport-recommendations-how-to-choose.md)
@@ -133,3 +135,9 @@
 - [macOS 科学上网新手教程](../tutorials/macos-quickstart.md)
 - [OpenClash 新手配置教程](../tutorials/openclash-quickstart.md)
 - [ChatGPT 无法访问时的排查清单](../tutorials/chatgpt-troubleshooting.md)
+
+## 如果你是来解决问题，不是来先选机场
+
+优先看这张总入口页：
+
+- [科学上网故障排查首页：掉线、ChatGPT 转圈、OpenClash 导入失败先看这里](troubleshooting-hub.md)

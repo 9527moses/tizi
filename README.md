@@ -78,6 +78,10 @@
 2. [推荐导航页：先看场景，再看具体机场](docs/recommendations/README.md)
 3. [翻墙机场推荐：稳定好用的外网路线怎么选](docs/recommendations/cross-border-airport-recommendations.md)
 
+如果你现在不是来选路线，而是已经遇到掉线、ChatGPT 转圈、OpenClash 导入失败这类问题，直接看：
+
+- [科学上网故障排查首页：掉线、ChatGPT 转圈、OpenClash 导入失败先看这里](docs/recommendations/troubleshooting-hub.md)
+
 ## 首页信号说明
 
 为了让这个仓库更像一个长期更新的推荐首页，而不是一次性堆内容，我们公开页现在只保留这几种状态：

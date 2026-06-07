@@ -108,6 +108,7 @@ OpenClash 导入订阅失败，最常见的原因通常是：
 
 ## 继续看这些页更顺
 
+- [科学上网故障排查首页：掉线、ChatGPT 转圈、OpenClash 导入失败先看这里](troubleshooting-hub.md)
 - [OpenClash 新手配置教程](../tutorials/openclash-quickstart.md)
 - [OpenClash 机场推荐：全屋代理场景先看哪些路线](openclash-airport-recommendations.md)
 - [路由器机场推荐为什么更看订阅兼容：不是节点多，而是能不能顺利接进去](router-airport-subscription-compatibility.md)

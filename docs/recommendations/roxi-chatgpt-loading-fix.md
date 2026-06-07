@@ -88,6 +88,7 @@
 
 ## 继续看这些页更顺
 
+- [科学上网故障排查首页：掉线、ChatGPT 转圈、OpenClash 导入失败先看这里](troubleshooting-hub.md)
 - [ChatGPT 转圈怎么办：先换节点，还是先查浏览器和代理模式](chatgpt-loading-forever-fix.md)
 - [Roxi 适不适合 ChatGPT：想少折腾时，这条线值不值得先看](roxi-for-chatgpt-worth-it.md)
 - [ChatGPT 无法访问时的排查清单](../tutorials/chatgpt-troubleshooting.md)
