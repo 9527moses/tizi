@@ -63,6 +63,10 @@
 - [Roxi iPhone 教程：第一次怎么在苹果手机上跑通](roxi-iphone-tutorial.md)
 - [Roxi Windows 教程：第一次怎么在电脑上跑通](roxi-windows-tutorial.md)
 - [Roxi OpenClash 教程：怎么把 Roxi 接进全屋代理](roxi-openclash-tutorial.md)
+- [机场试用推荐：先试哪些路线，更不容易白折腾](airport-trial-recommendations.md)
+- [OpenClash 机场推荐：全屋代理场景先看哪些路线](openclash-airport-recommendations.md)
+- [苹果手机翻墙推荐：iPhone 用户第一次怎么选更省时间](iphone-cross-border-recommendations.md)
+- [Windows 翻墙推荐：电脑用户第一次怎么选更省时间](windows-cross-border-recommendations.md)
 - [翻墙机场推荐：稳定好用的外网路线怎么选](cross-border-airport-recommendations.md)
 - [VPN替代推荐：为什么越来越多人改用机场路线](vpn-alternatives-recommendations.md)
 

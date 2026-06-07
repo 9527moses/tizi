@@ -141,6 +141,10 @@
 - 想看“Roxi iPhone 教程”：[Roxi iPhone 教程](docs/recommendations/roxi-iphone-tutorial.md)
 - 想看“Roxi Windows 教程”：[Roxi Windows 教程](docs/recommendations/roxi-windows-tutorial.md)
 - 想看“Roxi OpenClash 教程”：[Roxi OpenClash 教程](docs/recommendations/roxi-openclash-tutorial.md)
+- 想看“机场试用推荐”：[机场试用推荐](docs/recommendations/airport-trial-recommendations.md)
+- 想看“OpenClash 机场推荐”：[OpenClash 机场推荐](docs/recommendations/openclash-airport-recommendations.md)
+- 想看“苹果翻墙推荐”：[苹果翻墙推荐](docs/recommendations/iphone-cross-border-recommendations.md)
+- 想看“Windows 翻墙推荐”：[Windows 翻墙推荐](docs/recommendations/windows-cross-border-recommendations.md)
 - 想直接看“翻墙机场推荐”： [翻墙机场推荐](docs/recommendations/cross-border-airport-recommendations.md)
 - 想直接看“VPN替代推荐”： [VPN替代推荐](docs/recommendations/vpn-alternatives-recommendations.md)
 

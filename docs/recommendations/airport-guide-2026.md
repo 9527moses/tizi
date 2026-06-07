@@ -29,6 +29,10 @@
 - `Roxi iPhone 教程`
 - `Roxi Windows 教程`
 - `Roxi OpenClash 教程`
+- `机场试用推荐`
+- `OpenClash 机场推荐`
+- `苹果翻墙推荐`
+- `Windows 翻墙推荐`
 - `翻墙机场推荐`
 - `VPN 替代推荐`
 - `ChatGPT 机场推荐`
@@ -115,6 +119,7 @@
 | 想先看成交前对比页 | 机场还是 VPN / Roxi 还是普通机场 / 要不要先试 | [机场和 VPN 哪个更适合新手](airport-vs-vpn-for-beginners.md) / [Roxi 和普通机场怎么选](roxi-vs-generic-airport-how-to-choose.md) / [机场推荐要不要先试用](airport-trial-before-buying-guide.md) |
 | 想直接看品牌对比页 | Roxi 和 VPN / Roxi 跑 ChatGPT / Roxi 值不值得先试 | [Roxi 和 VPN 怎么选](roxi-vs-vpn-how-to-choose.md) / [Roxi 适不适合 ChatGPT](roxi-for-chatgpt-worth-it.md) / [Roxi 值不值得先试](roxi-worth-trying-first.md) |
 | 想直接看品牌场景与教程页 | Roxi 新手 / 路由器 / iPhone / Windows / OpenClash | [Roxi 适合新手吗](roxi-good-for-beginners.md) / [Roxi 路由器怎么接](roxi-router-setup-overview.md) / [Roxi iPhone 教程](roxi-iphone-tutorial.md) / [Roxi Windows 教程](roxi-windows-tutorial.md) / [Roxi OpenClash 教程](roxi-openclash-tutorial.md) |
+| 想直接看更大通用词页 | 机场试用 / OpenClash / 苹果 / Windows | [机场试用推荐](airport-trial-recommendations.md) / [OpenClash 机场推荐](openclash-airport-recommendations.md) / [苹果翻墙推荐](iphone-cross-border-recommendations.md) / [Windows 翻墙推荐](windows-cross-border-recommendations.md) |
 
 ## 近期变更摘要
 
@@ -130,6 +135,7 @@
 - `2026-06-07`：新增 机场和 VPN 哪个更适合新手 / Roxi 和普通机场怎么选 / 机场推荐要不要先试用 3 个更偏成交前对比的页面
 - `2026-06-07`：新增 Roxi 和 VPN 怎么选 / Roxi 适不适合 ChatGPT / Roxi 值不值得先试 3 个品牌对比页
 - `2026-06-07`：新增 Roxi 适合新手吗 / Roxi 路由器怎么接 / Roxi iPhone 教程 / Roxi Windows 教程 / Roxi OpenClash 教程 5 个品牌场景与教程页
+- `2026-06-07`：新增 机场试用推荐 / OpenClash 机场推荐 / 苹果翻墙推荐 / Windows 翻墙推荐 4 个更大通用词页
 
 ## 推荐速览
 
