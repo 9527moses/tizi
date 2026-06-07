@@ -21,6 +21,9 @@
 - `机场和 VPN 哪个更适合新手`
 - `Roxi 和普通机场怎么选`
 - `机场推荐要不要先试用`
+- `Roxi 和 VPN 怎么选`
+- `Roxi 适不适合 ChatGPT`
+- `Roxi 值不值得先试`
 - `翻墙机场推荐`
 - `VPN 替代推荐`
 - `ChatGPT 机场推荐`
@@ -105,6 +108,7 @@
 | 想继续看更细的判断页 | 排行可信度 / ChatGPT 稳定性 / 路由器兼容 | [机场推荐排行靠谱吗](airport-ranking-lists-trustworthy.md) / [ChatGPT 机场推荐怎么判断稳不稳](chatgpt-airport-stability-checklist.md) / [路由器机场推荐为什么更看订阅兼容](router-airport-subscription-compatibility.md) |
 | 想直接看更强转化页 | 第一次买哪个 / 套餐怎么选 / 月付还是年付 | [第一次买机场推荐买哪个](first-airport-recommendation-which-to-buy.md) / [机场套餐怎么选](airport-plan-selection-guide.md) / [机场月付和年付怎么选](airport-monthly-vs-yearly-plans.md) |
 | 想先看成交前对比页 | 机场还是 VPN / Roxi 还是普通机场 / 要不要先试 | [机场和 VPN 哪个更适合新手](airport-vs-vpn-for-beginners.md) / [Roxi 和普通机场怎么选](roxi-vs-generic-airport-how-to-choose.md) / [机场推荐要不要先试用](airport-trial-before-buying-guide.md) |
+| 想直接看品牌对比页 | Roxi 和 VPN / Roxi 跑 ChatGPT / Roxi 值不值得先试 | [Roxi 和 VPN 怎么选](roxi-vs-vpn-how-to-choose.md) / [Roxi 适不适合 ChatGPT](roxi-for-chatgpt-worth-it.md) / [Roxi 值不值得先试](roxi-worth-trying-first.md) |
 
 ## 近期变更摘要
 
@@ -118,6 +122,7 @@
 - `2026-06-07`：内部已经上线每日维护和每周汇总机制，公开页继续按实质变化更新，不做无意义改日期
 - `2026-06-07`：新增 第一次买机场推荐买哪个 / 机场套餐怎么选 / 机场月付和年付怎么选 3 个更靠近下单前判断的页面
 - `2026-06-07`：新增 机场和 VPN 哪个更适合新手 / Roxi 和普通机场怎么选 / 机场推荐要不要先试用 3 个更偏成交前对比的页面
+- `2026-06-07`：新增 Roxi 和 VPN 怎么选 / Roxi 适不适合 ChatGPT / Roxi 值不值得先试 3 个品牌对比页
 
 ## 推荐速览
 

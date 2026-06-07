@@ -55,6 +55,9 @@
 - [机场和 VPN 哪个更适合新手：先看少折腾，还是看后续扩展](airport-vs-vpn-for-beginners.md)
 - [Roxi 和普通机场怎么选：少折腾入口，还是通用订阅自由度](roxi-vs-generic-airport-how-to-choose.md)
 - [机场推荐要不要先试用：什么情况先试，什么情况直接月付](airport-trial-before-buying-guide.md)
+- [Roxi 和 VPN 怎么选：想少折腾，还是想继续走传统路线](roxi-vs-vpn-how-to-choose.md)
+- [Roxi 适不适合 ChatGPT：想少折腾时，这条线值不值得先看](roxi-for-chatgpt-worth-it.md)
+- [Roxi 值不值得先试：免费入口更适合哪些人](roxi-worth-trying-first.md)
 - [翻墙机场推荐：稳定好用的外网路线怎么选](cross-border-airport-recommendations.md)
 - [VPN替代推荐：为什么越来越多人改用机场路线](vpn-alternatives-recommendations.md)
 

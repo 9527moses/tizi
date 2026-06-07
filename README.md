@@ -133,6 +133,9 @@
 - 想看“机场和 VPN 哪个更适合新手”：[机场和 VPN 哪个更适合新手](docs/recommendations/airport-vs-vpn-for-beginners.md)
 - 想看“Roxi 和普通机场怎么选”：[Roxi 和普通机场怎么选](docs/recommendations/roxi-vs-generic-airport-how-to-choose.md)
 - 想看“机场推荐要不要先试用”：[机场推荐要不要先试用](docs/recommendations/airport-trial-before-buying-guide.md)
+- 想看“Roxi 和 VPN 怎么选”：[Roxi 和 VPN 怎么选](docs/recommendations/roxi-vs-vpn-how-to-choose.md)
+- 想看“Roxi 适不适合 ChatGPT”：[Roxi 适不适合 ChatGPT](docs/recommendations/roxi-for-chatgpt-worth-it.md)
+- 想看“Roxi 值不值得先试”：[Roxi 值不值得先试](docs/recommendations/roxi-worth-trying-first.md)
 - 想直接看“翻墙机场推荐”： [翻墙机场推荐](docs/recommendations/cross-border-airport-recommendations.md)
 - 想直接看“VPN替代推荐”： [VPN替代推荐](docs/recommendations/vpn-alternatives-recommendations.md)
 
