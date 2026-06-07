@@ -67,6 +67,10 @@
 - [OpenClash 机场推荐：全屋代理场景先看哪些路线](openclash-airport-recommendations.md)
 - [苹果手机翻墙推荐：iPhone 用户第一次怎么选更省时间](iphone-cross-border-recommendations.md)
 - [Windows 翻墙推荐：电脑用户第一次怎么选更省时间](windows-cross-border-recommendations.md)
+- [Mac 翻墙推荐：macOS 用户第一次怎么选更省时间](macos-cross-border-recommendations.md)
+- [电脑翻墙推荐：桌面用户怎么选更不容易踩坑](computer-cross-border-recommendations.md)
+- [机场推荐试用一周怎么判断：7 天里重点看什么，才知道值不值得留](one-week-trial-checklist.md)
+- [家用翻墙推荐：全家设备场景到底该先看什么](home-cross-border-recommendations.md)
 - [翻墙机场推荐：稳定好用的外网路线怎么选](cross-border-airport-recommendations.md)
 - [VPN替代推荐：为什么越来越多人改用机场路线](vpn-alternatives-recommendations.md)
 

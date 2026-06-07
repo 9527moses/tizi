@@ -145,6 +145,10 @@
 - 想看“OpenClash 机场推荐”：[OpenClash 机场推荐](docs/recommendations/openclash-airport-recommendations.md)
 - 想看“苹果翻墙推荐”：[苹果翻墙推荐](docs/recommendations/iphone-cross-border-recommendations.md)
 - 想看“Windows 翻墙推荐”：[Windows 翻墙推荐](docs/recommendations/windows-cross-border-recommendations.md)
+- 想看“Mac 翻墙推荐”：[Mac 翻墙推荐](docs/recommendations/macos-cross-border-recommendations.md)
+- 想看“电脑翻墙推荐”：[电脑翻墙推荐](docs/recommendations/computer-cross-border-recommendations.md)
+- 想看“机场推荐试用一周怎么判断”：[机场推荐试用一周怎么判断](docs/recommendations/one-week-trial-checklist.md)
+- 想看“家用翻墙推荐”：[家用翻墙推荐](docs/recommendations/home-cross-border-recommendations.md)
 - 想直接看“翻墙机场推荐”： [翻墙机场推荐](docs/recommendations/cross-border-airport-recommendations.md)
 - 想直接看“VPN替代推荐”： [VPN替代推荐](docs/recommendations/vpn-alternatives-recommendations.md)
 
