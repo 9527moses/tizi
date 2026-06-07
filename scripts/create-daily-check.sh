@@ -51,6 +51,18 @@ if [ -z "$TARGET_DATE" ]; then
   TARGET_DATE=$(TZ=Asia/Shanghai date +%F)
 fi
 
+date_to_epoch() {
+  source_date="$1"
+
+  if date -j -f "%F" "$source_date" "+%s" >/dev/null 2>&1; then
+    date -j -f "%F" "$source_date" "+%s"
+  else
+    date -d "$source_date" "+%s"
+  fi
+}
+
+TARGET_EPOCH=$(date_to_epoch "$TARGET_DATE")
+
 CHECKLIST_FILE=$(mktemp)
 PRIORITY_FILE=$(mktemp)
 OUTPUT_FILE=$(mktemp)
@@ -86,7 +98,7 @@ if [ ! -s "$CHECKLIST_FILE" ]; then
   printf '%s\n' "- [ ] 暂无候选，先补候选状态总表" > "$CHECKLIST_FILE"
 fi
 
-awk -F'|' '
+awk -F'|' -v target_epoch="$TARGET_EPOCH" '
   function trim(value) {
     gsub(/^[[:space:]]+|[[:space:]]+$/, "", value)
     return value
@@ -101,6 +113,22 @@ awk -F'|' '
     return 6
   }
 
+  function date_to_epoch_local(source_date, command, result) {
+    command = "date -j -f \"%F\" \"" source_date "\" \"+%s\" 2>/dev/null"
+    command | getline result
+    close(command)
+
+    if (result != "") {
+      return result + 0
+    }
+
+    command = "date -d \"" source_date "\" \"+%s\" 2>/dev/null"
+    command | getline result
+    close(command)
+
+    return result + 0
+  }
+
   /^\|/ {
     name = trim($2)
     level = trim($3)
@@ -110,7 +138,14 @@ awk -F'|' '
     next_action = trim($7)
 
     if (name != "" && name != "名称" && name !~ /^-+$/) {
-      score = route_priority(route)
+      route_score = route_priority(route)
+      checked_epoch = date_to_epoch_local(checked)
+      stale_days = int((target_epoch - checked_epoch) / 86400)
+      if (stale_days < 0) {
+        stale_days = 0
+      }
+
+      score = route_score * 100 - stale_days
 
       if (level == "正式位") {
         score += 50
@@ -120,12 +155,12 @@ awk -F'|' '
         score += 20
       }
 
-      printf("%03d\t%s\t%s\t%s\t%s\t%s\n", score, name, route, status, checked, next_action)
+      printf("%05d\t%s\t%s\t%s\t%s\t%s\t%s\n", score, name, route, status, checked, next_action, stale_days)
     }
   }
 ' "$STATUS_BOARD_FILE" | sort | awk -F'\t' '
   NR <= 3 {
-    printf("- %s：%s；当前状态 %s；最近检查 %s；下一步 %s\n", $2, $3, $4, $5, $6)
+    printf("- %s：%s；当前状态 %s；最近检查 %s；已间隔 %s 天；下一步 %s\n", $2, $3, $4, $5, $7, $6)
   }
 ' > "$PRIORITY_FILE"
 
