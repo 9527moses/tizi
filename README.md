@@ -18,15 +18,19 @@
 如果你是第一次接触这类工具，建议按这个顺序看：
 
 1. [新手怎么选机场](docs/recommendations/how-to-choose-an-airport.md)
-2. [Hiddify 新手上手指南](docs/tutorials/hiddify-quickstart.md)
-3. [OpenClash 新手配置教程](docs/tutorials/openclash-quickstart.md)
-4. [ChatGPT 无法访问时的排查清单](docs/tutorials/chatgpt-troubleshooting.md)
-5. [常见问题汇总](docs/faq/common-issues.md)
+2. [iPhone 科学上网新手教程](docs/tutorials/iphone-quickstart.md)
+3. [Windows 客户端新手教程](docs/tutorials/windows-quickstart.md)
+4. [Hiddify 新手上手指南](docs/tutorials/hiddify-quickstart.md)
+5. [OpenClash 新手配置教程](docs/tutorials/openclash-quickstart.md)
+6. [ChatGPT 无法访问时的排查清单](docs/tutorials/chatgpt-troubleshooting.md)
+7. [常见问题汇总](docs/faq/common-issues.md)
 
 ## 内容目录
 
 ### 教程
 
+- [iPhone 科学上网新手教程](docs/tutorials/iphone-quickstart.md)
+- [Windows 客户端新手教程](docs/tutorials/windows-quickstart.md)
 - [Hiddify 新手上手指南](docs/tutorials/hiddify-quickstart.md)
 - [OpenClash 新手配置教程](docs/tutorials/openclash-quickstart.md)
 - [ChatGPT 无法访问时的排查清单](docs/tutorials/chatgpt-troubleshooting.md)

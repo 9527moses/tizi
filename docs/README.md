@@ -2,6 +2,8 @@
 
 ## 教程
 
+- [iPhone 科学上网新手教程](tutorials/iphone-quickstart.md)
+- [Windows 客户端新手教程](tutorials/windows-quickstart.md)
 - [Hiddify 新手上手指南](tutorials/hiddify-quickstart.md)
 - [OpenClash 新手配置教程](tutorials/openclash-quickstart.md)
 - [ChatGPT 无法访问时的排查清单](tutorials/chatgpt-troubleshooting.md)

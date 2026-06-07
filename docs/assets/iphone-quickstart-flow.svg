@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">iPhone 科学上网使用流程图</title>
+  <desc id="desc">展示 iPhone 用户从安装客户端到导入订阅、授权 VPN、选择节点和问题排查的操作顺序。</desc>
+  <style>
+    .bg { fill: #f6f8fb; }
+    .card { fill: #ffffff; stroke: #d5ddea; stroke-width: 2; }
+    .green { fill: #edf8f0; stroke: #87ba96; }
+    .blue { fill: #eef4ff; stroke: #8cb0e8; }
+    .orange { fill: #fff5e7; stroke: #dfb565; }
+    .title { font: 700 34px -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", sans-serif; fill: #172033; }
+    .subtitle { font: 500 18px -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", sans-serif; fill: #52607a; }
+    .step { font: 700 24px -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", sans-serif; fill: #172033; }
+    .body { font: 500 18px -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", sans-serif; fill: #334155; }
+    .line { stroke: #8ca0bf; stroke-width: 5; stroke-linecap: round; fill: none; }
+    .badge { fill: #172033; }
+    .badgeText { font: 700 18px -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", sans-serif; fill: #ffffff; }
+  </style>
+
+  <rect class="bg" width="1200" height="760" rx="24"/>
+  <text class="title" x="80" y="92">iPhone 新手上手流程</text>
+  <text class="subtitle" x="80" y="127">安装客户端 → 导入订阅 → 允许 VPN → 选节点 → 测试网站</text>
+
+  <g transform="translate(80 180)">
+    <rect class="card green" x="0" y="0" width="200" height="170" rx="22"/>
+    <circle class="badge" cx="30" cy="30" r="18"/>
+    <text class="badgeText" x="24" y="37">1</text>
+    <text class="step" x="24" y="78">安装客户端</text>
+    <text class="body" x="24" y="112">优先用服务方推荐的</text>
+    <text class="body" x="24" y="138">兼容版本</text>
+  </g>
+
+  <g transform="translate(310 180)">
+    <rect class="card blue" x="0" y="0" width="200" height="170" rx="22"/>
+    <circle class="badge" cx="30" cy="30" r="18"/>
+    <text class="badgeText" x="24" y="37">2</text>
+    <text class="step" x="24" y="78">导入订阅</text>
+    <text class="body" x="24" y="112">复制链接或扫码</text>
+    <text class="body" x="24" y="138">等待节点列表加载</text>
+  </g>
+
+  <g transform="translate(540 180)">
+    <rect class="card orange" x="0" y="0" width="200" height="170" rx="22"/>
+    <circle class="badge" cx="30" cy="30" r="18"/>
+    <text class="badgeText" x="24" y="37">3</text>
+    <text class="step" x="24" y="78">允许 VPN 授权</text>
+    <text class="body" x="24" y="112">首次连接时点允许</text>
+    <text class="body" x="24" y="138">不要误点取消</text>
+  </g>
+
+  <g transform="translate(770 180)">
+    <rect class="card blue" x="0" y="0" width="200" height="170" rx="22"/>
+    <circle class="badge" cx="30" cy="30" r="18"/>
+    <text class="badgeText" x="24" y="37">4</text>
+    <text class="step" x="24" y="78">选择节点</text>
+    <text class="body" x="24" y="112">先测日本 新加坡</text>
+    <text class="body" x="24" y="138">再按场景调整</text>
+  </g>
+
+  <g transform="translate(1000 180)">
+    <rect class="card green" x="0" y="0" width="120" height="170" rx="22"/>
+    <circle class="badge" cx="28" cy="30" r="18"/>
+    <text class="badgeText" x="22" y="37">5</text>
+    <text class="step" x="20" y="78">验证</text>
+    <text class="body" x="20" y="112">直接打开</text>
+    <text class="body" x="20" y="138">目标网站</text>
+  </g>
+
+  <path class="line" d="M280 265 H310"/>
+  <polygon points="310,265 280,250 280,280" fill="#8ca0bf"/>
+  <path class="line" d="M510 265 H540"/>
+  <polygon points="540,265 510,250 510,280" fill="#8ca0bf"/>
+  <path class="line" d="M740 265 H770"/>
+  <polygon points="770,265 740,250 740,280" fill="#8ca0bf"/>
+  <path class="line" d="M970 265 H1000"/>
+  <polygon points="1000,265 970,250 970,280" fill="#8ca0bf"/>
+
+  <rect class="card" x="80" y="450" width="1040" height="200" rx="24"/>
+  <text class="step" x="120" y="510">iPhone 上最常见的 3 个问题</text>
+  <text class="body" x="120" y="555">1. VPN 授权没点允许，导致客户端显示正常但实际没接管流量</text>
+  <text class="body" x="120" y="590">2. App 被后台省电或网络切换打断，重开后才恢复正常</text>
+  <text class="body" x="120" y="625">3. 节点切换后没有直接验证目标网站，只看状态图标就以为已经可用</text>
+</svg>
