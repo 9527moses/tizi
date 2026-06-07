@@ -55,6 +55,18 @@ detail_path_for_name() {
     "flybit")
       printf '%s' "flybit-observation.md"
       ;;
+    "WgetCloud")
+      printf '%s' "wgetcloud-observation.md"
+      ;;
+    "TAG")
+      printf '%s' "tag-observation.md"
+      ;;
+    "Nexitally")
+      printf '%s' "nexitally-observation.md"
+      ;;
+    "BoostNet")
+      printf '%s' "boostnet-observation.md"
+      ;;
     *)
       printf '%s' ""
       ;;
