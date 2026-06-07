@@ -22,3 +22,6 @@
 - [ChatGPT 机场推荐：稳定访问更该看什么](recommendations/chatgpt-airport-recommendations.md)
 - [路由器机场推荐：全屋代理和 OpenClash 怎么选](recommendations/router-airport-recommendations.md)
 - [Hiddify 和 OpenClash 怎么选：新手、单机、全屋场景对比](recommendations/hiddify-vs-openclash.md)
+- [SSOne 观察版：当前公开信息与适合人群](recommendations/ssone-observation.md)
+- [隐云 观察版：双模式路线为什么值得关注](recommendations/yinyun-observation.md)
+- [闪狐云 观察版：办公、多设备路线的候选位](recommendations/flashfox-observation.md)

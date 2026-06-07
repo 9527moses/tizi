@@ -146,6 +146,7 @@
 **公开入口**
 
 - 官方站点：[ssone.club](https://ssone.club/)
+- [查看 SSOne 观察版详情](ssone-observation.md)
 
 ### 隐云
 
@@ -173,6 +174,7 @@
 **公开入口**
 
 - 官方站点：[yinyun.ltd](https://www.yinyun.ltd/)
+- [查看 隐云 观察版详情](yinyun-observation.md)
 
 ### 闪狐云
 
@@ -200,6 +202,7 @@
 **公开入口**
 
 - 官方站点：[flashfox.biz](https://flashfox.biz/)
+- [查看 闪狐云 观察版详情](flashfox-observation.md)
 
 ## 从哪里开始最省时间
 
