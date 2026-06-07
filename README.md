@@ -136,6 +136,11 @@
 - 想看“Roxi 和 VPN 怎么选”：[Roxi 和 VPN 怎么选](docs/recommendations/roxi-vs-vpn-how-to-choose.md)
 - 想看“Roxi 适不适合 ChatGPT”：[Roxi 适不适合 ChatGPT](docs/recommendations/roxi-for-chatgpt-worth-it.md)
 - 想看“Roxi 值不值得先试”：[Roxi 值不值得先试](docs/recommendations/roxi-worth-trying-first.md)
+- 想看“Roxi 适合新手吗”：[Roxi 适合新手吗](docs/recommendations/roxi-good-for-beginners.md)
+- 想看“Roxi 路由器怎么接”：[Roxi 路由器怎么接](docs/recommendations/roxi-router-setup-overview.md)
+- 想看“Roxi iPhone 教程”：[Roxi iPhone 教程](docs/recommendations/roxi-iphone-tutorial.md)
+- 想看“Roxi Windows 教程”：[Roxi Windows 教程](docs/recommendations/roxi-windows-tutorial.md)
+- 想看“Roxi OpenClash 教程”：[Roxi OpenClash 教程](docs/recommendations/roxi-openclash-tutorial.md)
 - 想直接看“翻墙机场推荐”： [翻墙机场推荐](docs/recommendations/cross-border-airport-recommendations.md)
 - 想直接看“VPN替代推荐”： [VPN替代推荐](docs/recommendations/vpn-alternatives-recommendations.md)
 

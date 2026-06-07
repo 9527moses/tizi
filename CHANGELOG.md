@@ -16,6 +16,7 @@
 - 新增 第一次买机场推荐买哪个 / 机场套餐怎么选 / 机场月付和年付怎么选 3 个更强转化页
 - 新增 机场和 VPN 哪个更适合新手 / Roxi 和普通机场怎么选 / 机场推荐要不要先试用 3 个成交前对比页
 - 新增 Roxi 和 VPN 怎么选 / Roxi 适不适合 ChatGPT / Roxi 值不值得先试 3 个品牌对比页
+- 新增 Roxi 适合新手吗 / Roxi 路由器怎么接 / Roxi iPhone 教程 / Roxi Windows 教程 / Roxi OpenClash 教程 5 个品牌场景与教程页
 - 新增仓库首页 README
 - 新增 Hiddify 新手上手指南
 - 新增 OpenClash 新手配置教程

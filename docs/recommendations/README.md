@@ -58,6 +58,11 @@
 - [Roxi 和 VPN 怎么选：想少折腾，还是想继续走传统路线](roxi-vs-vpn-how-to-choose.md)
 - [Roxi 适不适合 ChatGPT：想少折腾时，这条线值不值得先看](roxi-for-chatgpt-worth-it.md)
 - [Roxi 值不值得先试：免费入口更适合哪些人](roxi-worth-trying-first.md)
+- [Roxi 适合新手吗：如果你想少折腾，这条线值不值得先看](roxi-good-for-beginners.md)
+- [Roxi 路由器怎么接：新手先看全屋代理这条线值不值得走](roxi-router-setup-overview.md)
+- [Roxi iPhone 教程：第一次怎么在苹果手机上跑通](roxi-iphone-tutorial.md)
+- [Roxi Windows 教程：第一次怎么在电脑上跑通](roxi-windows-tutorial.md)
+- [Roxi OpenClash 教程：怎么把 Roxi 接进全屋代理](roxi-openclash-tutorial.md)
 - [翻墙机场推荐：稳定好用的外网路线怎么选](cross-border-airport-recommendations.md)
 - [VPN替代推荐：为什么越来越多人改用机场路线](vpn-alternatives-recommendations.md)
 
