@@ -12,6 +12,9 @@
 - `稳定机场推荐`
 - `免费梯子推荐`
 - `中转机场和直连机场怎么选`
+- `机场推荐排行`
+- `ChatGPT 机场推荐怎么判断稳不稳`
+- `路由器机场推荐为什么更看订阅兼容`
 - `翻墙机场推荐`
 - `VPN 替代推荐`
 - `ChatGPT 机场推荐`
@@ -93,6 +96,7 @@
 | 想兼顾看剧和日常使用 | 流媒体和日常平衡路线 | [流媒体机场推荐](streaming-airport-recommendations.md) |
 | 想直接看更像“大词页”的入口 | 翻墙机场推荐与 VPN 替代路线 | [翻墙机场推荐](cross-border-airport-recommendations.md) / [VPN替代推荐](vpn-alternatives-recommendations.md) |
 | 想先看更具体的搜索问答页 | 免费梯子 / 直连中转 / 稳定路线 | [免费梯子为什么不推荐](why-free-vpns-are-not-recommended.md) / [中转机场和直连机场怎么选](relay-vs-direct-airport-routes.md) / [稳定机场推荐怎么选](stable-airport-recommendations-how-to-choose.md) |
+| 想继续看更细的判断页 | 排行可信度 / ChatGPT 稳定性 / 路由器兼容 | [机场推荐排行靠谱吗](airport-ranking-lists-trustworthy.md) / [ChatGPT 机场推荐怎么判断稳不稳](chatgpt-airport-stability-checklist.md) / [路由器机场推荐为什么更看订阅兼容](router-airport-subscription-compatibility.md) |
 
 ## 近期变更摘要
 

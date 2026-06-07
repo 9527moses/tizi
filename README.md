@@ -124,6 +124,9 @@
 - 想看“为什么不要只看测速图”：[机场推荐为什么不要只看测速图](docs/recommendations/why-not-just-look-at-speed-tests.md)
 - 想看“免费梯子为什么不推荐”：[免费梯子为什么不推荐](docs/recommendations/why-free-vpns-are-not-recommended.md)
 - 想看“中转机场和直连机场怎么选”：[中转机场和直连机场怎么选](docs/recommendations/relay-vs-direct-airport-routes.md)
+- 想看“机场推荐排行靠谱吗”：[机场推荐排行靠谱吗](docs/recommendations/airport-ranking-lists-trustworthy.md)
+- 想看“ChatGPT 机场推荐怎么判断稳不稳”：[ChatGPT 机场推荐怎么判断稳不稳](docs/recommendations/chatgpt-airport-stability-checklist.md)
+- 想看“路由器机场推荐为什么更看订阅兼容”：[路由器机场推荐为什么更看订阅兼容](docs/recommendations/router-airport-subscription-compatibility.md)
 - 想直接看“翻墙机场推荐”： [翻墙机场推荐](docs/recommendations/cross-border-airport-recommendations.md)
 - 想直接看“VPN替代推荐”： [VPN替代推荐](docs/recommendations/vpn-alternatives-recommendations.md)
 

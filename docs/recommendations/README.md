@@ -46,6 +46,9 @@
 - [稳定机场推荐怎么选：比便宜更重要的是什么](stable-airport-recommendations-how-to-choose.md)
 - [免费梯子为什么不推荐：不是不能用，而是更容易踩哪几种坑](why-free-vpns-are-not-recommended.md)
 - [中转机场和直连机场怎么选：先看稳定性，还是先看延迟](relay-vs-direct-airport-routes.md)
+- [机场推荐排行靠谱吗：怎么判断一个榜单值不值得信](airport-ranking-lists-trustworthy.md)
+- [ChatGPT 机场推荐怎么判断稳不稳：先看这 6 个信号](chatgpt-airport-stability-checklist.md)
+- [路由器机场推荐为什么更看订阅兼容：不是节点多，而是能不能顺利接进去](router-airport-subscription-compatibility.md)
 - [翻墙机场推荐：稳定好用的外网路线怎么选](cross-border-airport-recommendations.md)
 - [VPN替代推荐：为什么越来越多人改用机场路线](vpn-alternatives-recommendations.md)
 
