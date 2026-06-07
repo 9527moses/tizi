@@ -87,7 +87,7 @@ awk -v target_date="$TARGET_DATE" -v checklist_file="$CHECKLIST_FILE" '
     gsub(/YYYY-MM-DD/, target_date)
   }
 
-  /{{CANDIDATE_CHECKLIST}}/ {
+  index($0, "{{CANDIDATE_CHECKLIST}}") {
     while ((getline line < checklist_file) > 0) {
       print line
     }

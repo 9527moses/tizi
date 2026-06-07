@@ -40,7 +40,7 @@ scheduled-maintenance:
     - export MAX_STALE_DAYS=$[[ inputs.max-stale-days ]]
     - ./scripts/run-gitlab-maintenance-task.sh "$MAINTENANCE_TASK"
   artifacts:
-    when: always
+    when: on_failure
     paths:
       - maintenance-closeout-report.md
     expire_in: 14 days

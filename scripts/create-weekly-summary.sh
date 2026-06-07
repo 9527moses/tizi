@@ -139,7 +139,7 @@ awk \
     gsub(/\{\{SUMMARY_DATE\}\}/, summary_date)
   }
 
-  /{{DAILY_NOTE_INDEX}}/ {
+  index($0, "{{DAILY_NOTE_INDEX}}") {
     while ((getline line < daily_index_file) > 0) {
       print line
     }
