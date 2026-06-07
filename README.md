@@ -1,43 +1,52 @@
-# 2026 机场推荐：稳定好用的翻墙机场、VPN 替代路线与科学上网指南
+# 2026 机场推荐：首页先帮你分场景，再看翻墙机场推荐与 VPN 替代路线
 
-以机场推荐为主，以教程为辅助。
+更新日期：2026-06-07
 
-这个仓库现在更像一个持续更新的推荐站，而不是单纯的教程集合。
+这是一个以 `机场推荐为主`、以 `教程为辅助` 的持续更新仓库。
 
-如果你搜的是这些词：
+如果你是从搜索进来的，搜的大概率是这些词：
 
 - `机场推荐`
 - `稳定机场推荐`
 - `翻墙机场推荐`
-- `科学上网机场推荐`
-- `ChatGPT 机场推荐`
 - `VPN 替代推荐`
+- `ChatGPT 机场推荐`
+- `路由器机场推荐`
 
-那这里的读法会更接近“先分场景，再看路线，再看具体机场”，而不是先给你一长串名字。
+那这页的定位不是给你一长串名字，而是先帮你快速判断：
 
-它的核心目标是：
+- 你属于哪种使用场景
+- 你应该先看哪条路线
+- 你适不适合直接看某个具体机场
 
-- 先帮用户按场景选路线
-- 再帮用户看具体机场值不值得继续看
-- 最后才用教程把“能不能跑通”补上
+## 首页先看结论
 
-更新日期：2026-06-07
+如果你不想先看完整仓库，先记这 4 句就够了：
 
-## 先看这些入口
+- 第一次接触，先看 `新手少折腾`
+- 核心需求是 AI，先看 `稳定性和常用地区`
+- 想做全屋代理，先看 `OpenClash 和多设备兼容`
+- 已经有主力方案，先看 `小流量备用位`
 
-如果你第一次打开这个仓库，先从这几个入口开始最省时间：
+## 先按你的需求进入
 
-1. [2026 机场推荐：新手、ChatGPT、路由器场景怎么选](docs/recommendations/airport-guide-2026.md)
-2. [推荐导航页：先看场景，再看具体机场](docs/recommendations/README.md)
-3. [新手机场推荐：第一次怎么选，不容易踩坑](docs/recommendations/beginner-airport-recommendations.md)
-4. [ChatGPT 机场推荐：稳定访问更该看什么](docs/recommendations/chatgpt-airport-recommendations.md)
-5. [路由器机场推荐：全屋代理和 OpenClash 怎么选](docs/recommendations/router-airport-recommendations.md)
+如果你想像逛一个主站首页那样直接选入口，可以先看这张分流表：
 
-## 热门推荐速览
+| 你现在更像哪类用户 | 最省时间的入口 | 为什么先看它 |
+|---|---|---|
+| 完全新手，想少折腾 | [新手机场推荐](docs/recommendations/beginner-airport-recommendations.md) | 先把手机或电脑跑通，再决定后面要不要扩展 |
+| 核心需求是 ChatGPT / AI | [ChatGPT 机场推荐](docs/recommendations/chatgpt-airport-recommendations.md) | 先看稳定性、常用地区和排障成本 |
+| 想做路由器 / 全屋代理 | [路由器机场推荐](docs/recommendations/router-airport-recommendations.md) | 先看 OpenClash、订阅通用性和多设备承接 |
+| 预算更敏感 | [低门槛机场推荐](docs/recommendations/budget-airport-recommendations.md) | 先看门槛和长期使用限制，而不是只看价格 |
+| 已有主力，只想补备用位 | [小流量机场推荐](docs/recommendations/small-traffic-airport-recommendations.md) | 先补第二线路，不和主力路线混在一起挑 |
+| 想兼顾看剧和日常 | [流媒体机场推荐](docs/recommendations/streaming-airport-recommendations.md) | 先看观影和日常能不能同时兼顾 |
+| 想直接看大词入口 | [翻墙机场推荐](docs/recommendations/cross-border-airport-recommendations.md) / [VPN替代推荐](docs/recommendations/vpn-alternatives-recommendations.md) | 更像搜索首页入口，适合先做总判断 |
 
-如果你只想先看一个更像“排行榜首页”的短表，可以先看这里：
+## 当前热门路线速览
 
-| 路线 | 当前更适合谁 | 当前状态 | 入口 |
+如果你更习惯先看一个短榜单，再决定点哪一页，先看这里：
+
+| 当前路线 | 更适合谁 | 当前状态 | 入口 |
 |---|---|---|---|
 | Roxi | 想少折腾、尽快跑通的人 | 已上线 | [查看](docs/recommendations/roxi-review.md) |
 | 隐云 | 想在成品感和自由度之间找平衡的人 | 观察中 | [查看](docs/recommendations/yinyun-observation.md) |
@@ -46,15 +55,38 @@
 | 悠兔 | 想补小流量备用位的人 | 观察中 | [查看](docs/recommendations/youtu-observation.md) |
 | Fastlink | 想兼顾日常和观影的人 | 观察中 | [查看](docs/recommendations/fastlink-observation.md) |
 
-## 今年怎么选更省时间
+## 为什么这个首页不是普通仓库说明页
 
-如果只说一句话：
+因为这套内容的真正目标不是“展示文件结构”，而是先解决用户最常见的 3 个问题：
 
-- 新手先看 `少折腾`
-- AI 用户先看 `稳定性`
-- 路由器用户先看 `兼容性`
-- 预算敏感用户先看 `门槛`
-- 已有主力的人先看 `备用位`
+1. 我到底该从哪一类机场路线开始看
+2. 哪些名字值得继续点进去看，哪些还只是观察位
+3. 选完路线之后，怎么再用教程把设备跑通
+
+所以这页的阅读顺序一直是：
+
+1. 先按场景分流
+2. 再看路线短榜单
+3. 再进具体机场页
+4. 最后再用教程补“怎么用”
+
+## 最重要的总入口
+
+如果你只打算收藏 3 个页面，优先留这 3 个：
+
+1. [2026 机场推荐总页：新手、ChatGPT、路由器场景怎么选](docs/recommendations/airport-guide-2026.md)
+2. [推荐导航页：先看场景，再看具体机场](docs/recommendations/README.md)
+3. [翻墙机场推荐：稳定好用的外网路线怎么选](docs/recommendations/cross-border-airport-recommendations.md)
+
+## 首页信号说明
+
+为了让这个仓库更像一个长期更新的推荐首页，而不是一次性堆内容，我们公开页现在只保留这几种状态：
+
+- `已上线`：已经放到正式位
+- `观察中`：已经进入前台，但仍在持续跟踪
+- `候补中`：暂时还在内部池里，不直接放到首页主推
+
+这能减少“名字很多，但不知道该不该信”的问题。
 
 ## 当前推荐层
 
