@@ -117,3 +117,10 @@
 ### 如果我想少折腾，先看哪条线
 
 优先看入口更清楚、教程更完整、排障路径更明确的路线。
+
+## 遇到这些问题时看这里
+
+- 已经在用，但 ChatGPT 一直转圈：看 [ChatGPT 转圈怎么办](chatgpt-loading-forever-fix.md)
+- 你用的是 Roxi，而且 AI 页面不加载：看 [Roxi ChatGPT 转圈怎么办](roxi-chatgpt-loading-fix.md)
+- 不只是 ChatGPT，平时网页访问也经常不稳：看 [翻墙老是掉线怎么办](why-does-vpn-keep-disconnecting.md)
+- 想回到更适合 AI 的路线总页：看 [ChatGPT 机场推荐：稳定访问更该看什么](chatgpt-airport-recommendations.md)

@@ -106,3 +106,10 @@
 - [机场试用推荐：先试哪些路线，更不容易白折腾](airport-trial-recommendations.md)
 - [机场推荐要不要先试用：什么情况先试，什么情况直接月付](airport-trial-before-buying-guide.md)
 - [机场月付和年付怎么选：什么时候先月付，什么时候能接受年付](airport-monthly-vs-yearly-plans.md)
+
+## 遇到这些问题时看这里
+
+- 试用几天后开始频繁掉线：看 [翻墙老是掉线怎么办](why-does-vpn-keep-disconnecting.md)
+- 手机上试用时显示已连接，但实际打不开：看 [iPhone VPN 已连接但打不开怎么办](iphone-vpn-connected-but-not-working.md)
+- AI 场景一到晚高峰就转圈：看 [ChatGPT 转圈怎么办](chatgpt-loading-forever-fix.md)
+- 你试的是 Roxi，而且想按 Roxi 路线排查：看 [Roxi 连上了但打不开怎么办](roxi-connected-but-not-working.md)

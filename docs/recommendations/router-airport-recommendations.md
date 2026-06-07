@@ -176,3 +176,10 @@
 - 如果你还没跑通第一台设备：看 [新手机场推荐](beginner-airport-recommendations.md)
 - 如果你主要目标其实是 AI：看 [ChatGPT 机场推荐](chatgpt-airport-recommendations.md)
 - 如果你想继续比较多设备之外的平衡路线：看 [流媒体机场推荐](streaming-airport-recommendations.md)
+
+## 遇到这些问题时看这里
+
+- OpenClash 或路由器导入订阅失败：看 [OpenClash 订阅导入失败怎么办](openclash-subscription-import-failed.md)
+- 你接的是 Roxi，这条线在路由器上导入不顺：看 [Roxi OpenClash 导入失败怎么办](roxi-openclash-import-failed.md)
+- 家里设备能连，但体验忽好忽坏：看 [翻墙老是掉线怎么办](why-does-vpn-keep-disconnecting.md)
+- 想回到底层配置和设置顺序：看 [OpenClash 新手配置教程](../tutorials/openclash-quickstart.md)

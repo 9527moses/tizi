@@ -128,3 +128,10 @@
 - [机场月付和年付怎么选：什么时候先月付，什么时候能接受年付](airport-monthly-vs-yearly-plans.md)
 - [小流量机场推荐：备用位和轻度使用怎么选](small-traffic-airport-recommendations.md)
 - [低门槛机场推荐：预算敏感用户先看什么](budget-airport-recommendations.md)
+
+## 遇到这些问题时看这里
+
+- 买完后发现客户端经常掉线：看 [翻墙老是掉线怎么办](why-does-vpn-keep-disconnecting.md)
+- 主要设备是 iPhone，而且连上不通：看 [iPhone VPN 已连接但打不开怎么办](iphone-vpn-connected-but-not-working.md)
+- 套餐看着合适，但 ChatGPT 还是不稳：看 [ChatGPT 转圈怎么办](chatgpt-loading-forever-fix.md)
+- 你准备走全屋代理，结果订阅导入卡住：看 [OpenClash 订阅导入失败怎么办](openclash-subscription-import-failed.md)

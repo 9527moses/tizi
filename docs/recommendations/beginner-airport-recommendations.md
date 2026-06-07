@@ -218,3 +218,10 @@
 - 如果你接下来核心需求变成 AI 稳定访问：看 [ChatGPT 机场推荐](chatgpt-airport-recommendations.md)
 - 如果你后面准备上路由器：看 [路由器机场推荐](router-airport-recommendations.md)
 - 如果你预算更敏感：看 [低门槛机场推荐](budget-airport-recommendations.md)
+
+## 遇到这些问题时看这里
+
+- 手机上显示已连接，但网页还是打不开：看 [iPhone VPN 已连接但打不开怎么办](iphone-vpn-connected-but-not-working.md)
+- 电脑或通用客户端经常掉线、时好时坏：看 [翻墙老是掉线怎么办](why-does-vpn-keep-disconnecting.md)
+- 节点能连，但 ChatGPT 一直转圈：看 [ChatGPT 转圈怎么办](chatgpt-loading-forever-fix.md)
+- 你走的是 Roxi 这条更省心路线：看 [Roxi 连上了但打不开怎么办](roxi-connected-but-not-working.md)

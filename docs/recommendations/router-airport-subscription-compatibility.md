@@ -108,3 +108,10 @@
 
 - [新手机场推荐：第一次怎么选，不容易踩坑](beginner-airport-recommendations.md)
 - [路由器机场推荐：全屋代理和 OpenClash 怎么选](router-airport-recommendations.md)
+
+## 遇到这些问题时看这里
+
+- 订阅链接导入不进去：看 [OpenClash 订阅导入失败怎么办](openclash-subscription-import-failed.md)
+- Roxi 路由器导入这一步卡住了：看 [Roxi OpenClash 导入失败怎么办](roxi-openclash-import-failed.md)
+- 接进去了，但家里设备还是经常断：看 [翻墙老是掉线怎么办](why-does-vpn-keep-disconnecting.md)
+- 想回到完整的路由器路线入口：看 [路由器机场推荐：全屋代理和 OpenClash 怎么选](router-airport-recommendations.md)

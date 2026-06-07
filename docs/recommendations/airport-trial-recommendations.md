@@ -90,3 +90,10 @@
 - [机场推荐要不要先试用：什么情况先试，什么情况直接月付](airport-trial-before-buying-guide.md)
 - [低门槛机场推荐：预算敏感用户先看什么](budget-airport-recommendations.md)
 - [Roxi 值不值得先试：免费入口更适合哪些人](roxi-worth-trying-first.md)
+
+## 遇到这些问题时看这里
+
+- 试用时客户端显示连上，但网页还是不通：看 [翻墙老是掉线怎么办](why-does-vpn-keep-disconnecting.md)
+- 你主要在 iPhone 上试用，已连接却打不开：看 [iPhone VPN 已连接但打不开怎么办](iphone-vpn-connected-but-not-working.md)
+- 试用里最在意 ChatGPT，但 AI 场景一直转圈：看 [ChatGPT 转圈怎么办](chatgpt-loading-forever-fix.md)
+- 你先试的是 Roxi 这条线：看 [Roxi 连上了但打不开怎么办](roxi-connected-but-not-working.md)

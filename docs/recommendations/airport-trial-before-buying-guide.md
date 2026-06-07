@@ -128,3 +128,10 @@
 - [机场月付和年付怎么选：什么时候先月付，什么时候能接受年付](airport-monthly-vs-yearly-plans.md)
 - [Roxi 和普通机场怎么选：少折腾入口，还是通用订阅自由度](roxi-vs-generic-airport-how-to-choose.md)
 - [大哥云 观察版：试用路线和客户端限制值不值得看](dageyun-observation.md)
+
+## 遇到这些问题时看这里
+
+- 试用阶段客户端总是连上又断开：看 [翻墙老是掉线怎么办](why-does-vpn-keep-disconnecting.md)
+- 你主要在 iPhone 上先试，结果已连接但打不开：看 [iPhone VPN 已连接但打不开怎么办](iphone-vpn-connected-but-not-working.md)
+- 试用能打开网页，但 ChatGPT 一直不稳：看 [ChatGPT 转圈怎么办](chatgpt-loading-forever-fix.md)
+- 你先试的是 Roxi 这条入口路线：看 [Roxi 连上了但打不开怎么办](roxi-connected-but-not-working.md)

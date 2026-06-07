@@ -194,3 +194,10 @@ ChatGPT 场景里，能不能快速换节点、换地区，比单次测速截图
 - 如果你其实更在意少折腾和上手速度：看 [新手机场推荐](beginner-airport-recommendations.md)
 - 如果你后面准备接入路由器：看 [路由器机场推荐](router-airport-recommendations.md)
 - 如果你想继续比较高预算稳定路线：看 [流媒体机场推荐](streaming-airport-recommendations.md)
+
+## 遇到这些问题时看这里
+
+- ChatGPT 登录后一直转圈，或者根本进不了对话：看 [ChatGPT 转圈怎么办](chatgpt-loading-forever-fix.md)
+- 你走的是 Roxi 线路，而且 AI 场景不稳：看 [Roxi ChatGPT 转圈怎么办](roxi-chatgpt-loading-fix.md)
+- 不只是 ChatGPT，平时网页访问也经常不稳定：看 [翻墙老是掉线怎么办](why-does-vpn-keep-disconnecting.md)
+- 想回到更偏判断标准的排查方式：看 [ChatGPT 机场稳定性检查清单](chatgpt-airport-stability-checklist.md)

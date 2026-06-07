@@ -115,3 +115,10 @@
 - [新手机场推荐：第一次怎么选，不容易踩坑](beginner-airport-recommendations.md)
 - [机场套餐怎么选：先分主力、备用和轻度使用](airport-plan-selection-guide.md)
 - [机场月付和年付怎么选：什么时候先月付，什么时候能接受年付](airport-monthly-vs-yearly-plans.md)
+
+## 遇到这些问题时看这里
+
+- 第一次买完就发现经常掉线：看 [翻墙老是掉线怎么办](why-does-vpn-keep-disconnecting.md)
+- 主要在 iPhone 上用，而且已连接却打不开：看 [iPhone VPN 已连接但打不开怎么办](iphone-vpn-connected-but-not-working.md)
+- 你是为了 ChatGPT 买的，但 AI 场景一直不稳：看 [ChatGPT 转圈怎么办](chatgpt-loading-forever-fix.md)
+- 一开始就准备接路由器，导入订阅失败：看 [OpenClash 订阅导入失败怎么办](openclash-subscription-import-failed.md)
