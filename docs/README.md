@@ -26,3 +26,6 @@
 - [SSOne 观察版：当前公开信息与适合人群](recommendations/ssone-observation.md)
 - [隐云 观察版：双模式路线为什么值得关注](recommendations/yinyun-observation.md)
 - [闪狐云 观察版：办公、多设备路线的候选位](recommendations/flashfox-observation.md)
+- [奈云 观察版：老牌路线为什么值得继续看](recommendations/nayun-observation.md)
+- [XXYUN 观察版：日常与性价比路线的候选位](recommendations/xxyun-observation.md)
+- [flybit 观察版：偏日常与备用路线的候选位](recommendations/flybit-observation.md)

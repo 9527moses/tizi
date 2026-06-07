@@ -56,6 +56,9 @@
 - [SSOne 观察版：当前公开信息与适合人群](docs/recommendations/ssone-observation.md)
 - [隐云 观察版：双模式路线为什么值得关注](docs/recommendations/yinyun-observation.md)
 - [闪狐云 观察版：办公、多设备路线的候选位](docs/recommendations/flashfox-observation.md)
+- [奈云 观察版：老牌路线为什么值得继续看](docs/recommendations/nayun-observation.md)
+- [XXYUN 观察版：日常与性价比路线的候选位](docs/recommendations/xxyun-observation.md)
+- [flybit 观察版：偏日常与备用路线的候选位](docs/recommendations/flybit-observation.md)
 
 ## 仓库的内容原则
 
