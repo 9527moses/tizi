@@ -10,6 +10,12 @@
 
 ## 今日重点跟进候选
 
+### 今日建议优先复查 Top 3
+
+{{PRIORITY_CANDIDATES}}
+
+### 完整检查清单
+
 {{CANDIDATE_CHECKLIST}}
 
 ## 今日变化摘要
