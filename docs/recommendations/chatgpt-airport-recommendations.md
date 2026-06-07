@@ -6,6 +6,23 @@
 
 所以这篇不做一堆名字的罗列，而是先告诉你：如果你的核心目标是稳定访问 ChatGPT，到底该看什么。
 
+## ChatGPT 路线速览
+
+如果你现在主要是想把 ChatGPT 跑稳，可以先按这张表筛：
+
+| 路线 | 当前更适合谁 | 当前状态 | 入口 |
+|---|---|---|---|
+| Roxi | 想少折腾、先把手机和电脑稳定跑通的人 | 已上线 | [查看](roxi-review.md) |
+| WgetCloud | 想看更偏高预算稳定路线的人 | 观察中 | [查看](wgetcloud-observation.md) |
+| Nexitally | 想看高端主力路线的人 | 观察中 | [查看](nexitally-observation.md) |
+| SSOne | 已经会导入订阅、愿意自己切节点的人 | 观察中 | [查看](ssone-observation.md) |
+
+这张表不是让你立刻拍板，而是让你先分清：
+
+- 想少折腾：先看 `Roxi`
+- 想看高预算稳定路线：先看 `WgetCloud` 和 `Nexitally`
+- 想自己折腾更多自由度：再看 `SSOne`
+
 ## 先说结论：ChatGPT 场景最重要的不是节点数量
 
 对这个场景来说，更重要的是：
@@ -170,3 +187,4 @@ ChatGPT 场景里，能不能快速换节点、换地区，比单次测速截图
 
 - [ChatGPT 无法访问时的排查清单](../tutorials/chatgpt-troubleshooting.md)
 - [2026 机场推荐：新手、ChatGPT、路由器场景怎么选](airport-guide-2026.md)
+- [推荐导航页：先看场景，再看具体机场](README.md)

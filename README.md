@@ -1,36 +1,63 @@
-# 梯子与机场使用指南
+# 2026 机场推荐与使用指南
 
-以教程为主，以推荐为辅。
+以机场推荐为主，以教程为辅助。
 
-这个仓库的目标很简单：帮新手尽快把工具用起来，少走弯路；也帮已经在用的人更快排查问题、挑到更适合自己的方案。
+这个仓库现在更像一个持续更新的推荐站，而不是单纯的教程集合。
+
+它的核心目标是：
+
+- 先帮用户按场景选路线
+- 再帮用户看具体机场值不值得继续看
+- 最后才用教程把“能不能跑通”补上
 
 更新日期：2026-06-07
 
-## 这个仓库适合谁
+## 先看这些入口
 
-- 刚开始接触机场、订阅、客户端，不知道从哪里入门的人
-- 已经会导入订阅，但经常遇到连不上、速度慢、节点失效的人
-- 想把手机、电脑、路由器一起配好的人
-- 想先看教程，再决定选什么方案的人
+如果你第一次打开这个仓库，先从这几个入口开始最省时间：
 
-## 从这里开始
+1. [2026 机场推荐：新手、ChatGPT、路由器场景怎么选](docs/recommendations/airport-guide-2026.md)
+2. [推荐导航页：先看场景，再看具体机场](docs/recommendations/README.md)
+3. [新手机场推荐：第一次怎么选，不容易踩坑](docs/recommendations/beginner-airport-recommendations.md)
+4. [ChatGPT 机场推荐：稳定访问更该看什么](docs/recommendations/chatgpt-airport-recommendations.md)
+5. [路由器机场推荐：全屋代理和 OpenClash 怎么选](docs/recommendations/router-airport-recommendations.md)
 
-如果你是第一次接触这类工具，建议按这个顺序看：
+## 当前推荐层
 
-1. [新手怎么选机场](docs/recommendations/how-to-choose-an-airport.md)
-2. [2026 年机场推荐与科学上网工具怎么选](docs/recommendations/airport-guide-2026.md)
-3. [iPhone 科学上网新手教程](docs/tutorials/iphone-quickstart.md)
-4. [Windows 客户端新手教程](docs/tutorials/windows-quickstart.md)
-5. [macOS 科学上网新手教程](docs/tutorials/macos-quickstart.md)
-6. [Hiddify 新手上手指南](docs/tutorials/hiddify-quickstart.md)
-7. [OpenClash 新手配置教程](docs/tutorials/openclash-quickstart.md)
-8. [ChatGPT 无法访问时的排查清单](docs/tutorials/chatgpt-troubleshooting.md)
-9. [常见问题汇总](docs/faq/common-issues.md)
-10. [路由器全家代理常见问题 FAQ](docs/faq/router-faq.md)
+### 正式位
 
-## 内容目录
+- [Roxi 评测：适合想少折腾、尽快用起来的人吗](docs/recommendations/roxi-review.md)
 
-### 教程
+### 首批重点观察位
+
+- [SSOne 观察版：当前公开信息与适合人群](docs/recommendations/ssone-observation.md)
+- [隐云 观察版：双模式路线为什么值得关注](docs/recommendations/yinyun-observation.md)
+- [闪狐云 观察版：办公、多设备路线的候选位](docs/recommendations/flashfox-observation.md)
+
+### 第二批候补池
+
+- [奈云 观察版：老牌路线为什么值得继续看](docs/recommendations/nayun-observation.md)
+- [XXYUN 观察版：日常与性价比路线的候选位](docs/recommendations/xxyun-observation.md)
+- [flybit 观察版：偏日常与备用路线的候选位](docs/recommendations/flybit-observation.md)
+- [WgetCloud 观察版：高预算稳定路线为什么值得看](docs/recommendations/wgetcloud-observation.md)
+- [TAG 观察版：多地区与游戏路线的候选位](docs/recommendations/tag-observation.md)
+- [Nexitally 观察版：高端主力路线为什么值得单独观察](docs/recommendations/nexitally-observation.md)
+- [BoostNet 观察版：高配备用路线值不值得继续看](docs/recommendations/boostnet-observation.md)
+- [悠兔 观察版：小流量备用路线值不值得继续看](docs/recommendations/youtu-observation.md)
+- [唯兔云 观察版：低门槛流媒体路线为什么值得留意](docs/recommendations/weitu-observation.md)
+- [Fastlink 观察版：日常与观影路线的候选位](docs/recommendations/fastlink-observation.md)
+
+## 按场景阅读
+
+- 想少折腾、尽快开始用：[新手机场推荐](docs/recommendations/beginner-airport-recommendations.md)
+- 核心需求是 AI 和 ChatGPT：[ChatGPT 机场推荐](docs/recommendations/chatgpt-airport-recommendations.md)
+- 想做全屋代理和 OpenClash：[路由器机场推荐](docs/recommendations/router-airport-recommendations.md)
+- 想先理解怎么挑，不急着看名单：[新手怎么选机场](docs/recommendations/how-to-choose-an-airport.md)
+- 想比较 Hiddify 和 OpenClash 路线：[Hiddify 和 OpenClash 怎么选](docs/recommendations/hiddify-vs-openclash.md)
+
+## 教程辅助入口
+
+教程不是主入口，但在你已经选完路线以后很有用：
 
 - [iPhone 科学上网新手教程](docs/tutorials/iphone-quickstart.md)
 - [Windows 客户端新手教程](docs/tutorials/windows-quickstart.md)
@@ -39,43 +66,12 @@
 - [OpenClash 新手配置教程](docs/tutorials/openclash-quickstart.md)
 - [ChatGPT 无法访问时的排查清单](docs/tutorials/chatgpt-troubleshooting.md)
 
-### 常见问题
+## 这个仓库的内容原则
 
-- [连接成功但网页打不开怎么办](docs/faq/common-issues.md)
-- [路由器全家代理常见问题 FAQ](docs/faq/router-faq.md)
-
-### 推荐与对比
-
-- [新手怎么选机场](docs/recommendations/how-to-choose-an-airport.md)
-- [2026 年机场推荐与科学上网工具怎么选](docs/recommendations/airport-guide-2026.md)
-- [新手机场推荐：第一次怎么选，不容易踩坑](docs/recommendations/beginner-airport-recommendations.md)
-- [ChatGPT 机场推荐：稳定访问更该看什么](docs/recommendations/chatgpt-airport-recommendations.md)
-- [路由器机场推荐：全屋代理和 OpenClash 怎么选](docs/recommendations/router-airport-recommendations.md)
-- [Hiddify 和 OpenClash 怎么选：新手、单机、全屋场景对比](docs/recommendations/hiddify-vs-openclash.md)
-- [Roxi 评测：适合想少折腾、尽快用起来的人吗](docs/recommendations/roxi-review.md)
-- [SSOne 观察版：当前公开信息与适合人群](docs/recommendations/ssone-observation.md)
-- [隐云 观察版：双模式路线为什么值得关注](docs/recommendations/yinyun-observation.md)
-- [闪狐云 观察版：办公、多设备路线的候选位](docs/recommendations/flashfox-observation.md)
-- [奈云 观察版：老牌路线为什么值得继续看](docs/recommendations/nayun-observation.md)
-- [XXYUN 观察版：日常与性价比路线的候选位](docs/recommendations/xxyun-observation.md)
-- [flybit 观察版：偏日常与备用路线的候选位](docs/recommendations/flybit-observation.md)
-
-## 仓库的内容原则
-
-- 优先写能马上解决问题的教程
-- 推荐内容只做辅助，不把仓库做成纯导购页
-- 尽量写成新手看得懂、照着做就能用的格式
+- 优先做场景型推荐，而不是堆名字的大杂烩榜单
+- 推荐页先解决“怎么选”，教程页再解决“怎么用”
+- 外部机场先按 `观察中` / `候补中` 管理，不直接写成无条件主推
 - 只在有实质增量时更新，不做无意义改日期
-
-## 推荐内容会怎么写
-
-这个仓库不会追求“堆很多名字”的榜单，而是会更关注下面这些真正影响体验的维度：
-
-- 稳定性：高峰期是否掉速、是否经常失联
-- 客户端适配：是否支持 Hiddify、Clash Meta、OpenClash、sing-box
-- 路由器友好度：是否适合家庭场景和全屋设备使用
-- 场景匹配：是否适合 ChatGPT、YouTube、日常浏览、游戏
-- 新手成本：导入是否简单、文档是否清楚、售后是否可用
 
 ## 如果你想少折腾
 
@@ -90,24 +86,7 @@
 
 ## 内部维护
 
-如果后续要做持续维护，内部机制见：
+如果后续要做持续维护，内部机制仍然保留在仓库里，但它属于后端，不是前台主入口：
 
 - [research/README.md](research/README.md)
 - [每日维护工作流](.github/workflows/daily-maintenance.yml)
-
-这套机制已经包含：
-
-- 内部研究层规则
-- 每日检查模板
-- 每周汇总模板
-- 候选状态总表
-- 自动生成当天检查页的脚本
-- 自动生成当周汇总页的脚本
-- 自动刷新总页状态联动总览的脚本
-- 自动检查维护链路是否收口的脚本
-- 一步完成同步与收口检查的脚本
-- 自动刷新内部运营面板的脚本
-- GitHub Actions 每日定时创建记录入口
-- GitHub Actions 每周定时创建汇总入口
-- GitHub Actions 手动 / 自动同步公开联动表入口
-- GitHub Actions 每日晚间收口检查入口
