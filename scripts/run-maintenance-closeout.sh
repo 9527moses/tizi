@@ -48,6 +48,10 @@ printf '%s\n' "Refreshing public status overview..."
 "$ROOT_DIR/scripts/sync-status-overview.sh"
 
 printf '\n'
+printf '%s\n' "Refreshing maintenance dashboard..."
+"$ROOT_DIR/scripts/update-maintenance-dashboard.sh" "$TARGET_DATE" ${MAX_STALE_DAYS:+--max-stale-days "$MAX_STALE_DAYS"}
+
+printf '\n'
 printf '%s\n' "Running maintenance health check..."
 
 set -- "$TARGET_DATE"

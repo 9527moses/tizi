@@ -21,7 +21,7 @@
 - [research/candidate-status-board.md](candidate-status-board.md)
   候选状态总表
 - [research/maintenance-dashboard.md](maintenance-dashboard.md)
-  维护收口看板
+  自动刷新的维护运营面板
 - [research/daily/README.md](daily/README.md)
   日更记录说明
 - [research/weekly/README.md](weekly/README.md)
@@ -50,6 +50,7 @@
 - 总页联动刷新：`scripts/sync-status-overview.sh`
 - 维护健康检查：`scripts/check-maintenance-health.sh`
 - 一步收口：`scripts/run-maintenance-closeout.sh`
+- 运营面板刷新：`scripts/update-maintenance-dashboard.sh`
 - 仓库定时任务：`.github/workflows/daily-maintenance.yml`
 - 仓库周汇总任务：`.github/workflows/weekly-summary.yml`
 - 总页联动同步任务：`.github/workflows/status-overview-sync.yml`
@@ -66,6 +67,7 @@
 - 半自动刷新公开总页里的状态联动总览
 - 辅助检查日更、状态总表和总页联动总览是否已经串起来
 - 把“刷新总页联动 + 健康检查”合成一个可手动 / 定时执行的收口动作
+- 自动输出固定 Markdown 运营面板，集中展示过期候选、待同步项和待建页提醒
 
 其中总页联动刷新仍建议在你确认详情页和候选状态总表都更新后，再手动运行一次。
 
