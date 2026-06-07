@@ -32,6 +32,7 @@ jobs:
           chmod +x scripts/check-maintenance-health.sh
           chmod +x scripts/run-maintenance-closeout.sh
           chmod +x scripts/update-maintenance-dashboard.sh
+          chmod +x scripts/update-ops-summary.sh
 
       - name: Run closeout and capture report
         env:
@@ -55,9 +56,25 @@ jobs:
           cat maintenance-closeout-report.md >> "$GITHUB_STEP_SUMMARY"
           echo "exit_code=${exit_code}" >> "$GITHUB_ENV"
 
+      - name: Refresh ops summary
+        env:
+          TARGET_DATE: ${{ inputs.target_date }}
+          MAX_STALE_DAYS: ${{ inputs.max_stale_days }}
+          TZ: Asia/Shanghai
+        run: |
+          if [ -z "${TARGET_DATE}" ]; then
+            TARGET_DATE="$(date +%F)"
+          fi
+
+          if [ -z "${MAX_STALE_DAYS}" ]; then
+            MAX_STALE_DAYS="3"
+          fi
+
+          ./scripts/update-ops-summary.sh "${TARGET_DATE}" --max-stale-days "${MAX_STALE_DAYS}"
+
       - name: Commit synced summary if changed
         run: |
-          git add docs/recommendations/airport-guide-2026.md research/maintenance-dashboard.md
+          git add docs/recommendations/airport-guide-2026.md research/maintenance-dashboard.md research/ops-today.md
 
           if git diff --cached --quiet; then
             echo "No synced overview changes to commit."

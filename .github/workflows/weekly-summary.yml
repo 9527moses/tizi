@@ -21,8 +21,10 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
 
-      - name: Make script executable
-        run: chmod +x scripts/create-weekly-summary.sh
+      - name: Make scripts executable
+        run: |
+          chmod +x scripts/create-weekly-summary.sh
+          chmod +x scripts/update-ops-summary.sh
 
       - name: Create weekly summary
         env:
@@ -35,12 +37,25 @@ jobs:
             ./scripts/create-weekly-summary.sh
           fi
 
+      - name: Refresh ops summary
+        env:
+          ANCHOR_DATE: ${{ inputs.anchor_date }}
+          TZ: Asia/Shanghai
+        run: |
+          if [ -n "${ANCHOR_DATE}" ]; then
+            summary_date="${ANCHOR_DATE}"
+          else
+            summary_date="$(date +%F)"
+          fi
+
+          ./scripts/update-ops-summary.sh "${summary_date}" --max-stale-days 3
+
       - name: Commit and push if changed
         env:
           ANCHOR_DATE: ${{ inputs.anchor_date }}
           TZ: Asia/Shanghai
         run: |
-          git add research/weekly
+          git add research/weekly research/ops-today.md
 
           if git diff --cached --quiet; then
             echo "No new weekly summary to commit."

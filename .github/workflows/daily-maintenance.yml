@@ -21,8 +21,12 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
 
-      - name: Make script executable
-        run: chmod +x scripts/create-daily-check.sh
+      - name: Make scripts executable
+        run: |
+          chmod +x scripts/create-daily-check.sh
+          chmod +x scripts/sync-status-overview.sh
+          chmod +x scripts/update-maintenance-dashboard.sh
+          chmod +x scripts/update-ops-summary.sh
 
       - name: Create daily note
         env:
@@ -35,12 +39,25 @@ jobs:
             ./scripts/create-daily-check.sh
           fi
 
+      - name: Refresh linked summaries
+        env:
+          TARGET_DATE: ${{ inputs.target_date }}
+          TZ: Asia/Shanghai
+        run: |
+          if [ -z "${TARGET_DATE}" ]; then
+            TARGET_DATE="$(date +%F)"
+          fi
+
+          ./scripts/sync-status-overview.sh
+          ./scripts/update-maintenance-dashboard.sh "${TARGET_DATE}" --max-stale-days 3
+          ./scripts/update-ops-summary.sh "${TARGET_DATE}" --max-stale-days 3
+
       - name: Commit and push if changed
         env:
           TARGET_DATE: ${{ inputs.target_date }}
           TZ: Asia/Shanghai
         run: |
-          git add research/daily
+          git add research/daily docs/recommendations/airport-guide-2026.md research/maintenance-dashboard.md research/ops-today.md
 
           if git diff --cached --quiet; then
             echo "No new daily note to commit."
@@ -55,5 +72,5 @@ jobs:
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "chore: create daily maintenance note for ${current_date}"
+          git commit -m "chore: daily maintenance refresh for ${current_date}"
           git push
