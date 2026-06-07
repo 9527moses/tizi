@@ -80,3 +80,10 @@
 - [iPhone 科学上网新手教程](../tutorials/iphone-quickstart.md)
 - [Roxi 适合新手吗：如果你想少折腾，这条线值不值得先看](roxi-good-for-beginners.md)
 - [Roxi 值不值得先试：免费入口更适合哪些人](roxi-worth-trying-first.md)
+
+## 遇到这些问题时看这里
+
+- 显示已连接，但网页和 App 还是打不开：看 [Roxi iPhone 已连接但打不开怎么办](roxi-iphone-connected-but-not-working.md)
+- 刚开始能用，过一会儿掉线：看 [Roxi 连上了但打不开怎么办](roxi-connected-but-not-working.md)
+- 你想看更通用的 iPhone 排障入口：看 [iPhone VPN 已连接但打不开怎么办](iphone-vpn-connected-but-not-working.md)
+- iPhone 上跑 ChatGPT 一直转圈：看 [Roxi ChatGPT 转圈怎么办](roxi-chatgpt-loading-fix.md)

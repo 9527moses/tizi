@@ -152,3 +152,10 @@ Windows 场景里，一个很常见的问题是“客户端开着，但流量根
 - [iPhone 科学上网新手教程](iphone-quickstart.md)
 - [OpenClash 新手配置教程](openclash-quickstart.md)
 - [ChatGPT 无法访问时的排查清单](chatgpt-troubleshooting.md)
+
+## 遇到这些问题时看这里
+
+- 客户端显示已连接，但网页还是打不开：看 [翻墙老是掉线怎么办](../recommendations/why-does-vpn-keep-disconnecting.md)
+- 浏览器能用，但桌面 App 不行：看 [电脑翻墙推荐：桌面用户怎么选更不容易踩坑](../recommendations/computer-cross-border-recommendations.md)
+- Roxi 在电脑上连接后还是打不开：看 [Roxi 连上了但打不开怎么办](../recommendations/roxi-connected-but-not-working.md)
+- ChatGPT 登录后一直转圈：看 [ChatGPT 转圈怎么办](../recommendations/chatgpt-loading-forever-fix.md)

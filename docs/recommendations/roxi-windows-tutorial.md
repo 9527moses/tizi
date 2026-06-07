@@ -73,3 +73,10 @@ Windows 最常见的问题之一，就是“软件开着，但流量没真正走
 - [Windows 客户端新手教程](../tutorials/windows-quickstart.md)
 - [Roxi 适不适合 ChatGPT：想少折腾时，这条线值不值得先看](roxi-for-chatgpt-worth-it.md)
 - [Roxi 路由器怎么接：新手先看全屋代理这条线值不值得走](roxi-router-setup-overview.md)
+
+## 遇到这些问题时看这里
+
+- Roxi 显示已连接，但网页还是打不开：看 [Roxi 连上了但打不开怎么办](roxi-connected-but-not-working.md)
+- 浏览器能用，但别的 App 不行：看 [电脑翻墙推荐：桌面用户怎么选更不容易踩坑](computer-cross-border-recommendations.md)
+- 跑 ChatGPT 登录后一直转圈：看 [Roxi ChatGPT 转圈怎么办](roxi-chatgpt-loading-fix.md)
+- 想回到底层 Windows 排障顺序：看 [Windows 客户端新手教程](../tutorials/windows-quickstart.md)

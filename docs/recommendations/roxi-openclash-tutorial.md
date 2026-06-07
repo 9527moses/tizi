@@ -91,3 +91,10 @@
 - [OpenClash 新手配置教程](../tutorials/openclash-quickstart.md)
 - [Roxi 路由器怎么接：新手先看全屋代理这条线值不值得走](roxi-router-setup-overview.md)
 - [路由器机场推荐：全屋代理和 OpenClash 怎么选](router-airport-recommendations.md)
+
+## 遇到这些问题时看这里
+
+- Roxi 导入 OpenClash 以后节点或代理组没正常出来：看 [Roxi OpenClash 导入失败怎么办](roxi-openclash-import-failed.md)
+- 想看更通用的 OpenClash 导入排障：看 [OpenClash 导入订阅失败怎么办](openclash-subscription-import-failed.md)
+- 全屋代理能连上，但设备体验还是不稳：看 [家用翻墙推荐：全家设备场景到底该先看什么](home-cross-border-recommendations.md)
+- 想回到底层 OpenClash 配置顺序：看 [OpenClash 新手配置教程](../tutorials/openclash-quickstart.md)
