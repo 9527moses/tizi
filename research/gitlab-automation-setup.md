@@ -9,6 +9,8 @@
 - [.gitlab-ci.yml](../.gitlab-ci.yml)
 - [scripts/run-gitlab-maintenance-task.sh](../scripts/run-gitlab-maintenance-task.sh)
 
+GitLab 现在推荐在计划任务里直接用 `Inputs`，而不是老的计划任务变量。
+
 你后面要做的，主要就是在 GitLab 后台把计划任务和回推权限打开。
 
 ## 先开回推权限
@@ -36,14 +38,16 @@
 ### 1. Daily maintenance refresh
 
 - Description: `Daily maintenance refresh`
-- Interval Pattern: `35 1 * * *`
+- Interval Pattern: `35 9 * * *`
 - 时区：`Asia/Shanghai`
 - Target branch: `main`
 
 Variables:
+Inputs:
 
-- `MAINTENANCE_TASK` = `daily`
-- `MAX_STALE_DAYS` = `3`
+- `maintenance-task` = `daily`
+- `target-date` = 留空
+- `max-stale-days` = `3`
 
 这条会做：
 
@@ -57,13 +61,16 @@ Variables:
 ### 2. Weekly summary refresh
 
 - Description: `Weekly summary refresh`
-- Interval Pattern: `20 2 * * 0`
+- Interval Pattern: `20 10 * * 0`
 - 时区：`Asia/Shanghai`
 - Target branch: `main`
 
 Variables:
+Inputs:
 
-- `MAINTENANCE_TASK` = `weekly`
+- `maintenance-task` = `weekly`
+- `target-date` = 留空
+- `max-stale-days` = `3`
 
 这条会做：
 
@@ -74,14 +81,16 @@ Variables:
 ### 3. Maintenance closeout
 
 - Description: `Maintenance closeout`
-- Interval Pattern: `45 14 * * *`
+- Interval Pattern: `45 22 * * *`
 - 时区：`Asia/Shanghai`
 - Target branch: `main`
 
 Variables:
+Inputs:
 
-- `MAINTENANCE_TASK` = `closeout`
-- `MAX_STALE_DAYS` = `3`
+- `maintenance-task` = `closeout`
+- `target-date` = 留空
+- `max-stale-days` = `3`
 
 这条会做：
 
@@ -92,6 +101,12 @@ Variables:
 
 对应北京时间：`每天 22:45`
 
+如果你的 GitLab 页面里没有单独的时区选项，而是默认按 UTC 解释 cron，再改用下面这组值：
+
+- Daily maintenance refresh：`35 1 * * *`
+- Weekly summary refresh：`20 2 * * 0`
+- Maintenance closeout：`45 14 * * *`
+
 ## 如果你想手动跑一次
 
 你可以直接在 GitLab 里手动跑：
@@ -99,18 +114,18 @@ Variables:
 1. 打开 `Build > Pipelines`
 2. 点 `Run pipeline`
 3. Branch 选 `main`
-4. 添加变量
+4. 直接填写 Inputs
 
-常用手动变量：
+常用手动输入：
 
-- `MAINTENANCE_TASK` = `daily`
-- `MAINTENANCE_TASK` = `sync`
-- `MAINTENANCE_TASK` = `closeout`
+- `maintenance-task` = `daily`
+- `maintenance-task` = `sync`
+- `maintenance-task` = `closeout`
 
-可选变量：
+可选输入：
 
-- `TARGET_DATE` = `2026-06-07`
-- `MAX_STALE_DAYS` = `3`
+- `target-date` = `2026-06-07`
+- `max-stale-days` = `3`
 
 其中：
 

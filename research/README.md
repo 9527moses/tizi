@@ -66,7 +66,7 @@
 GitLab 这一侧现在也已经接上：
 
 - 根目录新增 `.gitlab-ci.yml`
-- 可以在 GitLab `Build > Pipeline schedules` 里创建日更 / 周汇总 / 晚间收口 3 条计划任务
+- 可以在 GitLab `Build > Pipeline schedules` 里用 `Inputs` 创建日更 / 周汇总 / 晚间收口 3 条计划任务
 - GitLab 回推需要先打开 `Settings > CI/CD > Job token permissions > Allow Git push requests to the repository`
 
 这套自动化目前包含两类能力：

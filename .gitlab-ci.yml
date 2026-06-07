@@ -1,3 +1,20 @@
+spec:
+  inputs:
+    maintenance-task:
+      description: "Select which maintenance task this schedule should run."
+      options:
+        - daily
+        - weekly
+        - sync
+        - closeout
+      default: daily
+    target-date:
+      description: "Optional date in YYYY-MM-DD. Leave empty to use today's Asia/Shanghai date."
+      default: ""
+    max-stale-days:
+      description: "How many days a candidate can go without review before being marked stale."
+      default: "3"
+---
 workflow:
   rules:
     - if: '$CI_PIPELINE_SOURCE == "schedule"'
@@ -20,41 +37,11 @@ default:
 variables:
   GIT_STRATEGY: clone
   GIT_DEPTH: "0"
-  MAINTENANCE_TASK: "daily"
-  MAX_STALE_DAYS: "3"
 
-daily-maintenance-refresh:
+scheduled-maintenance:
   stage: maintenance
-  rules:
-    - if: '$CI_PIPELINE_SOURCE == "schedule" && $MAINTENANCE_TASK == "daily"'
-    - if: '$CI_PIPELINE_SOURCE == "web" && $MAINTENANCE_TASK == "daily"'
   script:
-    - ./scripts/run-gitlab-maintenance-task.sh daily
-
-weekly-summary-refresh:
-  stage: maintenance
-  rules:
-    - if: '$CI_PIPELINE_SOURCE == "schedule" && $MAINTENANCE_TASK == "weekly"'
-    - if: '$CI_PIPELINE_SOURCE == "web" && $MAINTENANCE_TASK == "weekly"'
-  script:
-    - ./scripts/run-gitlab-maintenance-task.sh weekly
-
-status-overview-sync:
-  stage: maintenance
-  rules:
-    - if: '$CI_PIPELINE_SOURCE == "web" && $MAINTENANCE_TASK == "sync"'
-  script:
-    - ./scripts/run-gitlab-maintenance-task.sh sync
-
-maintenance-closeout:
-  stage: maintenance
-  rules:
-    - if: '$CI_PIPELINE_SOURCE == "schedule" && $MAINTENANCE_TASK == "closeout"'
-    - if: '$CI_PIPELINE_SOURCE == "web" && $MAINTENANCE_TASK == "closeout"'
-  script:
-    - ./scripts/run-gitlab-maintenance-task.sh closeout
-  artifacts:
-    when: always
-    paths:
-      - maintenance-closeout-report.md
-    expire_in: 14 days
+    - export MAINTENANCE_TASK='$[[ inputs.maintenance-task ]]'
+    - export TARGET_DATE='$[[ inputs.target-date ]]'
+    - export MAX_STALE_DAYS='$[[ inputs.max-stale-days ]]'
+    - ./scripts/run-gitlab-maintenance-task.sh "$MAINTENANCE_TASK"
