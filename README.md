@@ -87,3 +87,18 @@
 ## 更新记录
 
 见 [CHANGELOG.md](CHANGELOG.md)
+
+## 内部维护
+
+如果后续要做持续维护，内部机制见：
+
+- [research/README.md](research/README.md)
+- [每日维护工作流](.github/workflows/daily-maintenance.yml)
+
+这套机制已经包含：
+
+- 内部研究层规则
+- 每日检查模板
+- 候选状态总表
+- 自动生成当天检查页的脚本
+- GitHub Actions 每日定时创建记录入口

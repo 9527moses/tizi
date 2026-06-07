@@ -1,0 +1,59 @@
+name: Daily Maintenance Note
+
+on:
+  workflow_dispatch:
+    inputs:
+      target_date:
+        description: Optional date in YYYY-MM-DD
+        required: false
+        type: string
+  schedule:
+    - cron: "30 1 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  create-daily-note:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Make script executable
+        run: chmod +x scripts/create-daily-check.sh
+
+      - name: Create daily note
+        env:
+          TARGET_DATE: ${{ inputs.target_date }}
+          TZ: Asia/Shanghai
+        run: |
+          if [ -n "${TARGET_DATE}" ]; then
+            ./scripts/create-daily-check.sh "${TARGET_DATE}"
+          else
+            ./scripts/create-daily-check.sh
+          fi
+
+      - name: Commit and push if changed
+        env:
+          TARGET_DATE: ${{ inputs.target_date }}
+          TZ: Asia/Shanghai
+        run: |
+          git add research/daily
+
+          if git diff --cached --quiet; then
+            echo "No new daily note to commit."
+            exit 0
+          fi
+
+          if [ -n "${TARGET_DATE}" ]; then
+            current_date="${TARGET_DATE}"
+          else
+            current_date="$(date +%F)"
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: create daily maintenance note for ${current_date}"
+          git push
