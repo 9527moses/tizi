@@ -20,6 +20,8 @@
   公开页更新规则
 - [research/candidate-status-board.md](candidate-status-board.md)
   候选状态总表
+- [research/maintenance-dashboard.md](maintenance-dashboard.md)
+  维护收口看板
 - [research/daily/README.md](daily/README.md)
   日更记录说明
 - [research/weekly/README.md](weekly/README.md)
@@ -39,12 +41,14 @@
 4. 把当天变化写进 `research/daily/YYYY-MM-DD.md`
 5. 只有出现实质变化时，再决定是否改公开页
 6. 每周末把这一周的关键变化收拢到 `research/weekly/YYYY-Www.md`
+7. 维护结束前跑一次健康检查，确认三层已经串起来
 
 ## 自动化入口
 
 - 本地生成：`scripts/create-daily-check.sh`
 - 本地周汇总：`scripts/create-weekly-summary.sh`
 - 总页联动刷新：`scripts/sync-status-overview.sh`
+- 维护健康检查：`scripts/check-maintenance-health.sh`
 - 仓库定时任务：`.github/workflows/daily-maintenance.yml`
 - 仓库周汇总任务：`.github/workflows/weekly-summary.yml`
 - 总页联动同步任务：`.github/workflows/status-overview-sync.yml`
@@ -57,6 +61,7 @@
 
 - 自动创建内部研究层的日更记录和周汇总骨架
 - 半自动刷新公开总页里的状态联动总览
+- 辅助检查日更、状态总表和总页联动总览是否已经串起来
 
 其中总页联动刷新仍建议在你确认详情页和候选状态总表都更新后，再手动运行一次。
 

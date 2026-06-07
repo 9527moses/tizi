@@ -34,3 +34,10 @@
 ## 下一步动作
 
 - 
+
+## 今日收口检查
+
+- [ ] 已补完今天的变化摘要
+- [ ] 已同步更新 `research/candidate-status-board.md`
+- [ ] 已运行 `scripts/sync-status-overview.sh` 或确认总页联动总览无需刷新
+- [ ] 已运行 `scripts/check-maintenance-health.sh` 检查三层是否串通
