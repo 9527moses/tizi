@@ -130,6 +130,9 @@
 - 想看“第一次买机场推荐买哪个”：[第一次买机场推荐买哪个](docs/recommendations/first-airport-recommendation-which-to-buy.md)
 - 想看“机场套餐怎么选”：[机场套餐怎么选](docs/recommendations/airport-plan-selection-guide.md)
 - 想看“机场月付和年付怎么选”：[机场月付和年付怎么选](docs/recommendations/airport-monthly-vs-yearly-plans.md)
+- 想看“机场和 VPN 哪个更适合新手”：[机场和 VPN 哪个更适合新手](docs/recommendations/airport-vs-vpn-for-beginners.md)
+- 想看“Roxi 和普通机场怎么选”：[Roxi 和普通机场怎么选](docs/recommendations/roxi-vs-generic-airport-how-to-choose.md)
+- 想看“机场推荐要不要先试用”：[机场推荐要不要先试用](docs/recommendations/airport-trial-before-buying-guide.md)
 - 想直接看“翻墙机场推荐”： [翻墙机场推荐](docs/recommendations/cross-border-airport-recommendations.md)
 - 想直接看“VPN替代推荐”： [VPN替代推荐](docs/recommendations/vpn-alternatives-recommendations.md)
 

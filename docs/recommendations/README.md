@@ -52,6 +52,9 @@
 - [第一次买机场推荐买哪个：新手先别急着比价格](first-airport-recommendation-which-to-buy.md)
 - [机场套餐怎么选：先分主力、备用和轻度使用](airport-plan-selection-guide.md)
 - [机场月付和年付怎么选：什么时候先月付，什么时候能接受年付](airport-monthly-vs-yearly-plans.md)
+- [机场和 VPN 哪个更适合新手：先看少折腾，还是看后续扩展](airport-vs-vpn-for-beginners.md)
+- [Roxi 和普通机场怎么选：少折腾入口，还是通用订阅自由度](roxi-vs-generic-airport-how-to-choose.md)
+- [机场推荐要不要先试用：什么情况先试，什么情况直接月付](airport-trial-before-buying-guide.md)
 - [翻墙机场推荐：稳定好用的外网路线怎么选](cross-border-airport-recommendations.md)
 - [VPN替代推荐：为什么越来越多人改用机场路线](vpn-alternatives-recommendations.md)
 
