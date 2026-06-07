@@ -18,14 +18,15 @@
 如果你是第一次接触这类工具，建议按这个顺序看：
 
 1. [新手怎么选机场](docs/recommendations/how-to-choose-an-airport.md)
-2. [iPhone 科学上网新手教程](docs/tutorials/iphone-quickstart.md)
-3. [Windows 客户端新手教程](docs/tutorials/windows-quickstart.md)
-4. [macOS 科学上网新手教程](docs/tutorials/macos-quickstart.md)
-5. [Hiddify 新手上手指南](docs/tutorials/hiddify-quickstart.md)
-6. [OpenClash 新手配置教程](docs/tutorials/openclash-quickstart.md)
-7. [ChatGPT 无法访问时的排查清单](docs/tutorials/chatgpt-troubleshooting.md)
-8. [常见问题汇总](docs/faq/common-issues.md)
-9. [路由器全家代理常见问题 FAQ](docs/faq/router-faq.md)
+2. [2026 年机场推荐与科学上网工具怎么选](docs/recommendations/airport-guide-2026.md)
+3. [iPhone 科学上网新手教程](docs/tutorials/iphone-quickstart.md)
+4. [Windows 客户端新手教程](docs/tutorials/windows-quickstart.md)
+5. [macOS 科学上网新手教程](docs/tutorials/macos-quickstart.md)
+6. [Hiddify 新手上手指南](docs/tutorials/hiddify-quickstart.md)
+7. [OpenClash 新手配置教程](docs/tutorials/openclash-quickstart.md)
+8. [ChatGPT 无法访问时的排查清单](docs/tutorials/chatgpt-troubleshooting.md)
+9. [常见问题汇总](docs/faq/common-issues.md)
+10. [路由器全家代理常见问题 FAQ](docs/faq/router-faq.md)
 
 ## 内容目录
 
@@ -46,6 +47,8 @@
 ### 推荐与对比
 
 - [新手怎么选机场](docs/recommendations/how-to-choose-an-airport.md)
+- [2026 年机场推荐与科学上网工具怎么选](docs/recommendations/airport-guide-2026.md)
+- [新手机场推荐：第一次怎么选，不容易踩坑](docs/recommendations/beginner-airport-recommendations.md)
 
 ## 仓库的内容原则
 

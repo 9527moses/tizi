@@ -17,3 +17,5 @@
 ## 推荐与对比
 
 - [新手怎么选机场](recommendations/how-to-choose-an-airport.md)
+- [2026 年机场推荐与科学上网工具怎么选](recommendations/airport-guide-2026.md)
+- [新手机场推荐：第一次怎么选，不容易踩坑](recommendations/beginner-airport-recommendations.md)
