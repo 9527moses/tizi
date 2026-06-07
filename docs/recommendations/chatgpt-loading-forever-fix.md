@@ -110,3 +110,10 @@ ChatGPT 转圈最常见的原因，通常集中在这几类：
 - [ChatGPT 无法访问时的排查清单](../tutorials/chatgpt-troubleshooting.md)
 - [ChatGPT 机场推荐：稳定访问更该看什么](chatgpt-airport-recommendations.md)
 - [ChatGPT 机场推荐怎么判断稳不稳：先看这 6 个信号](chatgpt-airport-stability-checklist.md)
+
+## 遇到这些问题时看这里
+
+- 你用的是 Roxi，而且 ChatGPT 一直转圈：看 [Roxi ChatGPT 转圈怎么办](roxi-chatgpt-loading-fix.md)
+- iPhone 上登录或长对话更容易转圈：看 [苹果手机翻墙推荐：iPhone 用户第一次怎么选更省时间](iphone-cross-border-recommendations.md)
+- 想先看这条线到底适不适合 ChatGPT：看 [Roxi 适不适合 ChatGPT：想少折腾时，这条线值不值得先看](roxi-for-chatgpt-worth-it.md)
+- 连接本身就经常不稳：看 [翻墙老是掉线怎么办](why-does-vpn-keep-disconnecting.md)

@@ -111,3 +111,10 @@ OpenClash 导入订阅失败，最常见的原因通常是：
 - [OpenClash 新手配置教程](../tutorials/openclash-quickstart.md)
 - [OpenClash 机场推荐：全屋代理场景先看哪些路线](openclash-airport-recommendations.md)
 - [路由器机场推荐为什么更看订阅兼容：不是节点多，而是能不能顺利接进去](router-airport-subscription-compatibility.md)
+
+## 遇到这些问题时看这里
+
+- 你接的是 Roxi，这条线导入不顺：看 [Roxi OpenClash 导入失败怎么办](roxi-openclash-import-failed.md)
+- 想回到底层 OpenClash 配置顺序：看 [OpenClash 新手配置教程](../tutorials/openclash-quickstart.md)
+- 全屋代理能导入，但家里设备体验还是不稳：看 [家用翻墙推荐：全家设备场景到底该先看什么](home-cross-border-recommendations.md)
+- 想继续看哪些路线更适合 OpenClash：看 [OpenClash 机场推荐：全屋代理场景先看哪些路线](openclash-airport-recommendations.md)

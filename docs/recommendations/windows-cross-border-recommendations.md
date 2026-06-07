@@ -74,3 +74,10 @@ Windows 场景更适合优先看：
 - [Windows 客户端新手教程](../tutorials/windows-quickstart.md)
 - [新手机场推荐：第一次怎么选，不容易踩坑](beginner-airport-recommendations.md)
 - [Roxi Windows 教程：第一次怎么在电脑上跑通](roxi-windows-tutorial.md)
+
+## 遇到这些问题时看这里
+
+- 客户端显示已连接，但网页还是打不开：看 [翻墙老是掉线怎么办](why-does-vpn-keep-disconnecting.md)
+- 你用的是 Roxi，而且电脑上连上了但不通：看 [Roxi 连上了但打不开怎么办](roxi-connected-but-not-working.md)
+- 浏览器能用，但桌面 App 不行：看 [电脑翻墙推荐：桌面用户怎么选更不容易踩坑](computer-cross-border-recommendations.md)
+- 跑 ChatGPT 登录后一直转圈：看 [ChatGPT 转圈怎么办](chatgpt-loading-forever-fix.md)

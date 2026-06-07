@@ -122,3 +122,10 @@ Roxi 这条线在这几个点上更容易承接。
 - [Roxi 评测：适合想少折腾、尽快用起来的人吗](roxi-review.md)
 - [Roxi iPhone 教程：第一次怎么在苹果手机上跑通](roxi-iphone-tutorial.md)
 - [Roxi Windows 教程：第一次怎么在电脑上跑通](roxi-windows-tutorial.md)
+
+## 遇到这些问题时看这里
+
+- Roxi 看起来连上了，但网页还是打不开：看 [Roxi 连上了但打不开怎么办](roxi-connected-but-not-working.md)
+- Roxi 在 iPhone 上显示已连接但还是不通：看 [Roxi iPhone 已连接但打不开怎么办](roxi-iphone-connected-but-not-working.md)
+- Roxi 跑 ChatGPT 一直转圈：看 [Roxi ChatGPT 转圈怎么办](roxi-chatgpt-loading-fix.md)
+- 想回到更通用的新手问题入口：看 [翻墙老是掉线怎么办](why-does-vpn-keep-disconnecting.md)

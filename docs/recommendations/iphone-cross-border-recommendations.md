@@ -87,3 +87,10 @@ iPhone 上从 Wi-Fi 切到蜂窝、或反过来，状态恢复能力很重要。
 - [iPhone 科学上网新手教程](../tutorials/iphone-quickstart.md)
 - [新手机场推荐：第一次怎么选，不容易踩坑](beginner-airport-recommendations.md)
 - [Roxi iPhone 教程：第一次怎么在苹果手机上跑通](roxi-iphone-tutorial.md)
+
+## 遇到这些问题时看这里
+
+- iPhone 显示已连接，但网页还是打不开：看 [iPhone VPN 已连接但打不开怎么办](iphone-vpn-connected-but-not-working.md)
+- 你用的是 Roxi，而且已连接但不通：看 [Roxi iPhone 已连接但打不开怎么办](roxi-iphone-connected-but-not-working.md)
+- 刚开始能用，过一会儿老掉线：看 [翻墙老是掉线怎么办](why-does-vpn-keep-disconnecting.md)
+- 跑 ChatGPT 登录后一直转圈：看 [ChatGPT 转圈怎么办](chatgpt-loading-forever-fix.md)

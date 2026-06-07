@@ -96,3 +96,10 @@ Roxi 能不能接路由器，怎么接。
 - [Roxi OpenClash 教程：怎么把 Roxi 接进全屋代理](roxi-openclash-tutorial.md)
 - [路由器机场推荐：全屋代理和 OpenClash 怎么选](router-airport-recommendations.md)
 - [OpenClash 新手配置教程](../tutorials/openclash-quickstart.md)
+
+## 遇到这些问题时看这里
+
+- Roxi 接 OpenClash 以后导入不顺：看 [Roxi OpenClash 导入失败怎么办](roxi-openclash-import-failed.md)
+- 想看更通用的导入排障：看 [OpenClash 导入订阅失败怎么办](openclash-subscription-import-failed.md)
+- 全屋代理连上了，但家里设备体验还是不稳：看 [家用翻墙推荐：全家设备场景到底该先看什么](home-cross-border-recommendations.md)
+- 想回到底层路由器配置顺序：看 [OpenClash 新手配置教程](../tutorials/openclash-quickstart.md)

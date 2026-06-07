@@ -76,3 +76,10 @@
 - [Windows 翻墙推荐：电脑用户第一次怎么选更省时间](windows-cross-border-recommendations.md)
 - [Mac 翻墙推荐：macOS 用户第一次怎么选更省时间](macos-cross-border-recommendations.md)
 - [新手机场推荐：第一次怎么选，不容易踩坑](beginner-airport-recommendations.md)
+
+## 遇到这些问题时看这里
+
+- 软件显示已连接，但网页还是打不开：看 [翻墙老是掉线怎么办](why-does-vpn-keep-disconnecting.md)
+- 浏览器能用，但桌面 App 不行：看 [Windows 翻墙推荐：电脑用户第一次怎么选更省时间](windows-cross-border-recommendations.md)
+- 你用的是 Roxi，而且电脑上连上了但不通：看 [Roxi 连上了但打不开怎么办](roxi-connected-but-not-working.md)
+- 跑 ChatGPT 登录后一直转圈：看 [ChatGPT 转圈怎么办](chatgpt-loading-forever-fix.md)

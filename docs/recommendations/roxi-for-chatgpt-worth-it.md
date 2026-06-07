@@ -116,3 +116,10 @@ Roxi 这条路线更适合和现有教程、排障页一起看。
 - [ChatGPT 机场推荐：稳定访问更该看什么](chatgpt-airport-recommendations.md)
 - [Roxi 评测：适合想少折腾、尽快用起来的人吗](roxi-review.md)
 - [Roxi 值不值得先试：免费入口更适合哪些人](roxi-worth-trying-first.md)
+
+## 遇到这些问题时看这里
+
+- Roxi 跑 ChatGPT 一直转圈：看 [Roxi ChatGPT 转圈怎么办](roxi-chatgpt-loading-fix.md)
+- 想看更通用的 ChatGPT 排障入口：看 [ChatGPT 转圈怎么办](chatgpt-loading-forever-fix.md)
+- Roxi 连上了但整体还是不稳：看 [Roxi 连上了但打不开怎么办](roxi-connected-but-not-working.md)
+- 想回到底层 ChatGPT 排查顺序：看 [ChatGPT 无法访问时的排查清单](../tutorials/chatgpt-troubleshooting.md)

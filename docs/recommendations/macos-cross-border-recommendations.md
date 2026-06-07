@@ -74,3 +74,10 @@ macOS 场景更适合优先看：
 - [macOS 科学上网新手教程](../tutorials/macos-quickstart.md)
 - [新手机场推荐：第一次怎么选，不容易踩坑](beginner-airport-recommendations.md)
 - [Roxi 适合新手吗：如果你想少折腾，这条线值不值得先看](roxi-good-for-beginners.md)
+
+## 遇到这些问题时看这里
+
+- 状态栏看起来正常，但网页还是打不开：看 [翻墙老是掉线怎么办](why-does-vpn-keep-disconnecting.md)
+- 浏览器能用，但桌面 App 不行：看 [电脑翻墙推荐：桌面用户怎么选更不容易踩坑](computer-cross-border-recommendations.md)
+- 你后面准备改看 Roxi 品牌路线：看 [Roxi 适合新手吗：如果你想少折腾，这条线值不值得先看](roxi-good-for-beginners.md)
+- 跑 ChatGPT 登录后一直转圈：看 [ChatGPT 转圈怎么办](chatgpt-loading-forever-fix.md)

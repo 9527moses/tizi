@@ -114,3 +114,10 @@
 - [机场推荐要不要先试用：什么情况先试，什么情况直接月付](airport-trial-before-buying-guide.md)
 - [机场月付和年付怎么选：什么时候先月付，什么时候能接受年付](airport-monthly-vs-yearly-plans.md)
 - [Roxi 适不适合 ChatGPT：想少折腾时，这条线值不值得先看](roxi-for-chatgpt-worth-it.md)
+
+## 遇到这些问题时看这里
+
+- Roxi 试的时候看起来连上了，但还是打不开：看 [Roxi 连上了但打不开怎么办](roxi-connected-but-not-working.md)
+- Roxi 在 iPhone 上试用时已连接但不通：看 [Roxi iPhone 已连接但打不开怎么办](roxi-iphone-connected-but-not-working.md)
+- 试用期跑 ChatGPT 一直转圈：看 [Roxi ChatGPT 转圈怎么办](roxi-chatgpt-loading-fix.md)
+- 想看更通用的试用判断：看 [机场推荐试用一周怎么判断](one-week-trial-checklist.md)

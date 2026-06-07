@@ -112,3 +112,10 @@
 - [ChatGPT 无法访问时的排查清单](../tutorials/chatgpt-troubleshooting.md)
 - [苹果手机翻墙推荐：iPhone 用户第一次怎么选更省时间](iphone-cross-border-recommendations.md)
 - [Windows 翻墙推荐：电脑用户第一次怎么选更省时间](windows-cross-border-recommendations.md)
+
+## 遇到这些问题时看这里
+
+- 你用的是 Roxi，而且看起来连上了但不通：看 [Roxi 连上了但打不开怎么办](roxi-connected-but-not-working.md)
+- 掉线主要发生在 iPhone 上：看 [iPhone VPN 已连接但打不开怎么办](iphone-vpn-connected-but-not-working.md)
+- 掉线主要发生在电脑上：看 [电脑翻墙推荐：桌面用户怎么选更不容易踩坑](computer-cross-border-recommendations.md)
+- 接入路由器后更容易不稳：看 [家用翻墙推荐：全家设备场景到底该先看什么](home-cross-border-recommendations.md)
