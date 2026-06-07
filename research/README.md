@@ -51,15 +51,23 @@
 - 维护健康检查：`scripts/check-maintenance-health.sh`
 - 一步收口：`scripts/run-maintenance-closeout.sh`
 - 运营面板刷新：`scripts/update-maintenance-dashboard.sh`
+- GitLab 自动维护入口：`scripts/run-gitlab-maintenance-task.sh`
 - 仓库定时任务：`.github/workflows/daily-maintenance.yml`
 - 仓库周汇总任务：`.github/workflows/weekly-summary.yml`
 - 总页联动同步任务：`.github/workflows/status-overview-sync.yml`
 - 每日晚间收口检查：`.github/workflows/maintenance-closeout.yml`
+- GitLab 计划任务配置说明：`research/gitlab-automation-setup.md`
 - 每天北京时间 `09:30` 会自动创建当天的内部检查页
 - 每周日北京时间 `10:15` 会自动创建当周汇总页
 - 当候选状态总表或重点详情页进入 `main` 后，会自动尝试同步总页联动总览
 - 每天北京时间 `22:45` 会自动执行一次维护收口检查，并把检查结果写进 Actions 摘要
 - 也可以在 GitHub Actions 里手动触发，并补生成指定日期的记录
+
+GitLab 这一侧现在也已经接上：
+
+- 根目录新增 `.gitlab-ci.yml`
+- 可以在 GitLab `Build > Pipeline schedules` 里创建日更 / 周汇总 / 晚间收口 3 条计划任务
+- GitLab 回推需要先打开 `Settings > CI/CD > Job token permissions > Allow Git push requests to the repository`
 
 这套自动化目前包含两类能力：
 
