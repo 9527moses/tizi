@@ -59,6 +59,8 @@ commit_and_push_if_changed() {
   commit_message="$1"
   shift
 
+  tracked_paths="$*"
+
   git add "$@"
 
   if git diff --cached --quiet; then
@@ -66,12 +68,13 @@ commit_and_push_if_changed() {
     return 0
   fi
 
-  git commit -m "$commit_message"
-
   if [ "${GITLAB_CI_DRY_RUN:-0}" = "1" ]; then
-    printf '%s\n' "Dry run enabled, skipping push."
+    git reset --quiet HEAD -- $tracked_paths
+    printf '%s\n' "Dry run enabled, skipping commit and push."
     return 0
   fi
+
+  git commit -m "$commit_message"
 
   if [ -z "${CI_JOB_TOKEN:-}" ]; then
     printf '%s\n' "CI_JOB_TOKEN is required to push changes from GitLab CI." >&2
@@ -92,12 +95,14 @@ run_daily() {
   "$ROOT_DIR/scripts/create-daily-check.sh" "$TARGET_DATE"
   "$ROOT_DIR/scripts/sync-status-overview.sh"
   "$ROOT_DIR/scripts/update-maintenance-dashboard.sh" "$TARGET_DATE" --max-stale-days "$MAX_STALE_DAYS"
+  "$ROOT_DIR/scripts/update-ops-summary.sh" "$TARGET_DATE" --max-stale-days "$MAX_STALE_DAYS"
 
   commit_and_push_if_changed \
     "chore: daily maintenance refresh for ${TARGET_DATE}" \
     research/daily \
     docs/recommendations/airport-guide-2026.md \
-    research/maintenance-dashboard.md
+    research/maintenance-dashboard.md \
+    research/ops-today.md
 }
 
 run_weekly() {
@@ -105,10 +110,12 @@ run_weekly() {
   week_label=$(format_date "$TARGET_DATE" "%G-W%V")
 
   "$ROOT_DIR/scripts/create-weekly-summary.sh" "$TARGET_DATE"
+  "$ROOT_DIR/scripts/update-ops-summary.sh" "$TARGET_DATE" --max-stale-days "$MAX_STALE_DAYS"
 
   commit_and_push_if_changed \
     "chore: create weekly summary for ${week_label}" \
-    research/weekly
+    research/weekly \
+    research/ops-today.md
 }
 
 run_sync() {
@@ -116,11 +123,13 @@ run_sync() {
 
   "$ROOT_DIR/scripts/sync-status-overview.sh"
   "$ROOT_DIR/scripts/update-maintenance-dashboard.sh" "$TARGET_DATE" --max-stale-days "$MAX_STALE_DAYS"
+  "$ROOT_DIR/scripts/update-ops-summary.sh" "$TARGET_DATE" --max-stale-days "$MAX_STALE_DAYS"
 
   commit_and_push_if_changed \
     "chore: sync status overview for ${TARGET_DATE}" \
     docs/recommendations/airport-guide-2026.md \
-    research/maintenance-dashboard.md
+    research/maintenance-dashboard.md \
+    research/ops-today.md
 }
 
 run_closeout() {
@@ -133,11 +142,13 @@ run_closeout() {
   set -e
 
   cat "$report_file"
+  "$ROOT_DIR/scripts/update-ops-summary.sh" "$TARGET_DATE" --max-stale-days "$MAX_STALE_DAYS"
 
   commit_and_push_if_changed \
     "chore: closeout sync maintenance dashboard for ${TARGET_DATE}" \
     docs/recommendations/airport-guide-2026.md \
-    research/maintenance-dashboard.md
+    research/maintenance-dashboard.md \
+    research/ops-today.md
 
   if [ "$exit_code" -ne 0 ]; then
     exit "$exit_code"

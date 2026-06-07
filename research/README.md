@@ -22,6 +22,8 @@
   候选状态总表
 - [research/maintenance-dashboard.md](maintenance-dashboard.md)
   自动刷新的维护运营面板
+- [research/ops-today.md](ops-today.md)
+  自动刷新的今日维护摘要
 - [research/daily/README.md](daily/README.md)
   日更记录说明
 - [research/weekly/README.md](weekly/README.md)
@@ -51,6 +53,7 @@
 - 维护健康检查：`scripts/check-maintenance-health.sh`
 - 一步收口：`scripts/run-maintenance-closeout.sh`
 - 运营面板刷新：`scripts/update-maintenance-dashboard.sh`
+- 今日摘要刷新：`scripts/update-ops-summary.sh`
 - GitLab 自动维护入口：`scripts/run-gitlab-maintenance-task.sh`
 - 仓库定时任务：`.github/workflows/daily-maintenance.yml`
 - 仓库周汇总任务：`.github/workflows/weekly-summary.yml`
@@ -68,6 +71,7 @@ GitLab 这一侧现在也已经接上：
 - 根目录新增 `.gitlab-ci.yml`
 - 可以在 GitLab `Build > Pipeline schedules` 里用 `Inputs` 创建日更 / 周汇总 / 晚间收口 3 条计划任务
 - GitLab 回推需要先打开 `Settings > CI/CD > Job token permissions > Allow Git push requests to the repository`
+- `research/ops-today.md` 会随日更 / 周汇总 / 晚间收口一起自动刷新，帮你快速判断今天是否需要人工介入
 
 这套自动化目前包含两类能力：
 
@@ -76,6 +80,7 @@ GitLab 这一侧现在也已经接上：
 - 辅助检查日更、状态总表和总页联动总览是否已经串起来
 - 把“刷新总页联动 + 健康检查”合成一个可手动 / 定时执行的收口动作
 - 自动输出固定 Markdown 运营面板，集中展示过期候选、待同步项和待建页提醒
+- 自动输出一个更短的“今日维护摘要”页，方便打开仓库就判断今天要不要人工介入
 
 其中总页联动刷新仍建议在你确认详情页和候选状态总表都更新后，再手动运行一次。
 
