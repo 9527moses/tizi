@@ -49,12 +49,15 @@
 - 本地周汇总：`scripts/create-weekly-summary.sh`
 - 总页联动刷新：`scripts/sync-status-overview.sh`
 - 维护健康检查：`scripts/check-maintenance-health.sh`
+- 一步收口：`scripts/run-maintenance-closeout.sh`
 - 仓库定时任务：`.github/workflows/daily-maintenance.yml`
 - 仓库周汇总任务：`.github/workflows/weekly-summary.yml`
 - 总页联动同步任务：`.github/workflows/status-overview-sync.yml`
+- 每日晚间收口检查：`.github/workflows/maintenance-closeout.yml`
 - 每天北京时间 `09:30` 会自动创建当天的内部检查页
 - 每周日北京时间 `10:15` 会自动创建当周汇总页
 - 当候选状态总表或重点详情页进入 `main` 后，会自动尝试同步总页联动总览
+- 每天北京时间 `22:45` 会自动执行一次维护收口检查，并把检查结果写进 Actions 摘要
 - 也可以在 GitHub Actions 里手动触发，并补生成指定日期的记录
 
 这套自动化目前包含两类能力：
@@ -62,6 +65,7 @@
 - 自动创建内部研究层的日更记录和周汇总骨架
 - 半自动刷新公开总页里的状态联动总览
 - 辅助检查日更、状态总表和总页联动总览是否已经串起来
+- 把“刷新总页联动 + 健康检查”合成一个可手动 / 定时执行的收口动作
 
 其中总页联动刷新仍建议在你确认详情页和候选状态总表都更新后，再手动运行一次。
 

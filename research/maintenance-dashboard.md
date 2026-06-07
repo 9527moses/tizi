@@ -21,6 +21,10 @@
 
 - `scripts/sync-status-overview.sh`
 
+如果你想少一步，也可以直接运行：
+
+- `scripts/run-maintenance-closeout.sh`
+
 ## 我们主要看什么
 
 - 今天的日更记录有没有缺失
@@ -30,6 +34,7 @@
 ## 推荐用法
 
 - 日常维护结束后，先跑一次健康检查
+- 如果想把“同步总页 + 做健康检查”合成一步，直接跑 `scripts/run-maintenance-closeout.sh`
 - 如果看到过期项，优先补候选状态总表
 - 如果看到 `待同步`，优先刷新总页联动总览
 - 每周做周汇总前，也建议先跑一次

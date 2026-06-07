@@ -41,3 +41,4 @@
 - [ ] 已同步更新 `research/candidate-status-board.md`
 - [ ] 已运行 `scripts/sync-status-overview.sh` 或确认总页联动总览无需刷新
 - [ ] 已运行 `scripts/check-maintenance-health.sh` 检查三层是否串通
+- [ ] 或直接运行 `scripts/run-maintenance-closeout.sh YYYY-MM-DD` 完成同步和健康检查

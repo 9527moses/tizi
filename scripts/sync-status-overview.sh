@@ -65,9 +65,14 @@ extract_field_value() {
   file_path="$1"
   field_name="$2"
 
-  awk -F'：' -v field_name="$field_name" '
-    index($0, field_name "：") == 1 {
-      value = substr($0, length(field_name "：") + 1)
+  awk -v field_name="$field_name" '
+    {
+      line = $0
+      sub(/^[[:space:]]*-[[:space:]]*/, "", line)
+    }
+
+    index(line, field_name "：") == 1 {
+      value = substr(line, length(field_name "：") + 1)
       gsub(/^[[:space:]]+|[[:space:]]+$/, "", value)
       gsub(/`/, "", value)
       print value
