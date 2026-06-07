@@ -119,6 +119,7 @@
 
 - 官网：[roxi.cc](https://roxi.cc)
 - 博客：[roxi.cc/blog.html](https://roxi.cc/blog.html)
+- [查看 Roxi 详情页](roxi-review.md)
 
 ### SSOne
 
