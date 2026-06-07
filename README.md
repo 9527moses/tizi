@@ -49,6 +49,9 @@
 - [新手怎么选机场](docs/recommendations/how-to-choose-an-airport.md)
 - [2026 年机场推荐与科学上网工具怎么选](docs/recommendations/airport-guide-2026.md)
 - [新手机场推荐：第一次怎么选，不容易踩坑](docs/recommendations/beginner-airport-recommendations.md)
+- [ChatGPT 机场推荐：稳定访问更该看什么](docs/recommendations/chatgpt-airport-recommendations.md)
+- [路由器机场推荐：全屋代理和 OpenClash 怎么选](docs/recommendations/router-airport-recommendations.md)
+- [Hiddify 和 OpenClash 怎么选：新手、单机、全屋场景对比](docs/recommendations/hiddify-vs-openclash.md)
 
 ## 仓库的内容原则
 
