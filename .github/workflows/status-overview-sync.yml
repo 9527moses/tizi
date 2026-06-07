@@ -1,0 +1,50 @@
+name: Sync Status Overview
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "research/candidate-status-board.md"
+      - "docs/recommendations/airport-guide-2026.md"
+      - "docs/recommendations/roxi-review.md"
+      - "docs/recommendations/ssone-observation.md"
+      - "docs/recommendations/yinyun-observation.md"
+      - "docs/recommendations/flashfox-observation.md"
+      - "docs/recommendations/nayun-observation.md"
+      - "docs/recommendations/xxyun-observation.md"
+      - "docs/recommendations/flybit-observation.md"
+      - "scripts/sync-status-overview.sh"
+
+permissions:
+  contents: write
+
+jobs:
+  sync-status-overview:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Make script executable
+        run: chmod +x scripts/sync-status-overview.sh
+
+      - name: Refresh status overview
+        run: ./scripts/sync-status-overview.sh
+
+      - name: Commit and push if changed
+        run: |
+          git add docs/recommendations/airport-guide-2026.md
+
+          if git diff --cached --quiet; then
+            echo "Status overview is already up to date."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: sync status overview"
+          git push

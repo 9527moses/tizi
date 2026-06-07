@@ -47,8 +47,10 @@
 - 总页联动刷新：`scripts/sync-status-overview.sh`
 - 仓库定时任务：`.github/workflows/daily-maintenance.yml`
 - 仓库周汇总任务：`.github/workflows/weekly-summary.yml`
+- 总页联动同步任务：`.github/workflows/status-overview-sync.yml`
 - 每天北京时间 `09:30` 会自动创建当天的内部检查页
 - 每周日北京时间 `10:15` 会自动创建当周汇总页
+- 当候选状态总表或重点详情页进入 `main` 后，会自动尝试同步总页联动总览
 - 也可以在 GitHub Actions 里手动触发，并补生成指定日期的记录
 
 这套自动化目前包含两类能力：

@@ -106,3 +106,4 @@
 - 自动刷新总页状态联动总览的脚本
 - GitHub Actions 每日定时创建记录入口
 - GitHub Actions 每周定时创建汇总入口
+- GitHub Actions 手动 / 自动同步公开联动表入口
