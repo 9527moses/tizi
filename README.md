@@ -20,10 +20,12 @@
 1. [新手怎么选机场](docs/recommendations/how-to-choose-an-airport.md)
 2. [iPhone 科学上网新手教程](docs/tutorials/iphone-quickstart.md)
 3. [Windows 客户端新手教程](docs/tutorials/windows-quickstart.md)
-4. [Hiddify 新手上手指南](docs/tutorials/hiddify-quickstart.md)
-5. [OpenClash 新手配置教程](docs/tutorials/openclash-quickstart.md)
-6. [ChatGPT 无法访问时的排查清单](docs/tutorials/chatgpt-troubleshooting.md)
-7. [常见问题汇总](docs/faq/common-issues.md)
+4. [macOS 科学上网新手教程](docs/tutorials/macos-quickstart.md)
+5. [Hiddify 新手上手指南](docs/tutorials/hiddify-quickstart.md)
+6. [OpenClash 新手配置教程](docs/tutorials/openclash-quickstart.md)
+7. [ChatGPT 无法访问时的排查清单](docs/tutorials/chatgpt-troubleshooting.md)
+8. [常见问题汇总](docs/faq/common-issues.md)
+9. [路由器全家代理常见问题 FAQ](docs/faq/router-faq.md)
 
 ## 内容目录
 
@@ -31,6 +33,7 @@
 
 - [iPhone 科学上网新手教程](docs/tutorials/iphone-quickstart.md)
 - [Windows 客户端新手教程](docs/tutorials/windows-quickstart.md)
+- [macOS 科学上网新手教程](docs/tutorials/macos-quickstart.md)
 - [Hiddify 新手上手指南](docs/tutorials/hiddify-quickstart.md)
 - [OpenClash 新手配置教程](docs/tutorials/openclash-quickstart.md)
 - [ChatGPT 无法访问时的排查清单](docs/tutorials/chatgpt-troubleshooting.md)
@@ -38,6 +41,7 @@
 ### 常见问题
 
 - [连接成功但网页打不开怎么办](docs/faq/common-issues.md)
+- [路由器全家代理常见问题 FAQ](docs/faq/router-faq.md)
 
 ### 推荐与对比
 
