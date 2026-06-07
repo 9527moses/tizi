@@ -30,3 +30,4 @@
 - 本地可运行：`scripts/create-daily-check.sh`
 - GitHub Actions 会在每天北京时间 `09:30` 自动生成当天文件
 - 自动任务只创建骨架，具体变化和判断仍然需要人工补充
+- 周末可再把本周有价值的变化整理进 `research/weekly/`

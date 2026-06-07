@@ -1,0 +1,59 @@
+name: Weekly Summary Note
+
+on:
+  workflow_dispatch:
+    inputs:
+      anchor_date:
+        description: Optional date in YYYY-MM-DD
+        required: false
+        type: string
+  schedule:
+    - cron: "15 2 * * 0"
+
+permissions:
+  contents: write
+
+jobs:
+  create-weekly-summary:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Make script executable
+        run: chmod +x scripts/create-weekly-summary.sh
+
+      - name: Create weekly summary
+        env:
+          ANCHOR_DATE: ${{ inputs.anchor_date }}
+          TZ: Asia/Shanghai
+        run: |
+          if [ -n "${ANCHOR_DATE}" ]; then
+            ./scripts/create-weekly-summary.sh "${ANCHOR_DATE}"
+          else
+            ./scripts/create-weekly-summary.sh
+          fi
+
+      - name: Commit and push if changed
+        env:
+          ANCHOR_DATE: ${{ inputs.anchor_date }}
+          TZ: Asia/Shanghai
+        run: |
+          git add research/weekly
+
+          if git diff --cached --quiet; then
+            echo "No new weekly summary to commit."
+            exit 0
+          fi
+
+          if [ -n "${ANCHOR_DATE}" ]; then
+            week_label="$(date -d "${ANCHOR_DATE}" +%G-W%V)"
+          else
+            week_label="$(date +%G-W%V)"
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: create weekly summary for ${week_label}"
+          git push

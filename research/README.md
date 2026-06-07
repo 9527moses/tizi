@@ -22,10 +22,14 @@
   候选状态总表
 - [research/daily/README.md](daily/README.md)
   日更记录说明
+- [research/weekly/README.md](weekly/README.md)
+  周汇总说明
 - [research/templates/daily-check-template.md](templates/daily-check-template.md)
   每日检查模板
 - [research/templates/candidate-review-template.md](templates/candidate-review-template.md)
   单机场观察模板
+- [research/templates/weekly-summary-template.md](templates/weekly-summary-template.md)
+  每周汇总模板
 
 ## 每天维护建议顺序
 
@@ -34,15 +38,19 @@
 3. 更新 [candidate-status-board.md](candidate-status-board.md)
 4. 把当天变化写进 `research/daily/YYYY-MM-DD.md`
 5. 只有出现实质变化时，再决定是否改公开页
+6. 每周末把这一周的关键变化收拢到 `research/weekly/YYYY-Www.md`
 
 ## 自动化入口
 
 - 本地生成：`scripts/create-daily-check.sh`
+- 本地周汇总：`scripts/create-weekly-summary.sh`
 - 仓库定时任务：`.github/workflows/daily-maintenance.yml`
+- 仓库周汇总任务：`.github/workflows/weekly-summary.yml`
 - 每天北京时间 `09:30` 会自动创建当天的内部检查页
+- 每周日北京时间 `10:15` 会自动创建当周汇总页
 - 也可以在 GitHub Actions 里手动触发，并补生成指定日期的记录
 
-这套自动化只负责创建内部研究层的日更记录，不会自动改公开推荐页。
+这套自动化只负责创建内部研究层的日更记录和周汇总骨架，不会自动改公开推荐页。
 
 ## 这里和公开页的关系
 
