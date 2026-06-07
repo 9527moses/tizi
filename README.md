@@ -122,6 +122,8 @@
 - 想比较 Hiddify 和 OpenClash 路线：[Hiddify 和 OpenClash 怎么选](docs/recommendations/hiddify-vs-openclash.md)
 - 想看“便宜机场推荐到底靠不靠谱”：[便宜机场推荐靠谱吗](docs/recommendations/cheap-airport-recommendations-worth-it.md)
 - 想看“为什么不要只看测速图”：[机场推荐为什么不要只看测速图](docs/recommendations/why-not-just-look-at-speed-tests.md)
+- 想看“免费梯子为什么不推荐”：[免费梯子为什么不推荐](docs/recommendations/why-free-vpns-are-not-recommended.md)
+- 想看“中转机场和直连机场怎么选”：[中转机场和直连机场怎么选](docs/recommendations/relay-vs-direct-airport-routes.md)
 - 想直接看“翻墙机场推荐”： [翻墙机场推荐](docs/recommendations/cross-border-airport-recommendations.md)
 - 想直接看“VPN替代推荐”： [VPN替代推荐](docs/recommendations/vpn-alternatives-recommendations.md)
 

@@ -10,6 +10,8 @@
 
 - `机场推荐`
 - `稳定机场推荐`
+- `免费梯子推荐`
+- `中转机场和直连机场怎么选`
 - `翻墙机场推荐`
 - `VPN 替代推荐`
 - `ChatGPT 机场推荐`
@@ -90,6 +92,7 @@
 | 已经有主力，只想补一个备用位 | 小流量和第二线路 | [小流量机场推荐](small-traffic-airport-recommendations.md) |
 | 想兼顾看剧和日常使用 | 流媒体和日常平衡路线 | [流媒体机场推荐](streaming-airport-recommendations.md) |
 | 想直接看更像“大词页”的入口 | 翻墙机场推荐与 VPN 替代路线 | [翻墙机场推荐](cross-border-airport-recommendations.md) / [VPN替代推荐](vpn-alternatives-recommendations.md) |
+| 想先看更具体的搜索问答页 | 免费梯子 / 直连中转 / 稳定路线 | [免费梯子为什么不推荐](why-free-vpns-are-not-recommended.md) / [中转机场和直连机场怎么选](relay-vs-direct-airport-routes.md) / [稳定机场推荐怎么选](stable-airport-recommendations-how-to-choose.md) |
 
 ## 近期变更摘要
 
