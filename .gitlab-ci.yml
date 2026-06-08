@@ -35,7 +35,7 @@ scheduled-maintenance:
     - if: '$CI_PIPELINE_SOURCE == "schedule"'
     - if: '$CI_PIPELINE_SOURCE == "web"'
   script:
-    - : > maintenance-closeout-report.md
+    - touch maintenance-closeout-report.md
     - export MAINTENANCE_TASK=$[[ inputs.maintenance-task ]]
     - export TARGET_DATE=$[[ inputs.target-date ]]
     - export MAX_STALE_DAYS=$[[ inputs.max-stale-days ]]
