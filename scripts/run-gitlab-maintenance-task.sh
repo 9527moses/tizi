@@ -60,6 +60,7 @@ commit_and_push_if_changed() {
   shift
 
   tracked_paths="$*"
+  stashed_worktree=0
 
   git add "$@"
 
@@ -83,10 +84,19 @@ commit_and_push_if_changed() {
 
   branch_name="${CI_COMMIT_REF_NAME:-main}"
 
+  if [ -n "$(git status --porcelain)" ]; then
+    git stash push --include-untracked -m "gitlab-maintenance-pre-rebase" >/dev/null 2>&1
+    stashed_worktree=1
+  fi
+
   git fetch origin "$branch_name"
   git rebase "origin/$branch_name"
   git remote set-url origin "$(push_url)"
   git push origin "HEAD:$branch_name"
+
+  if [ "$stashed_worktree" -eq 1 ]; then
+    git stash pop >/dev/null 2>&1 || true
+  fi
 }
 
 run_daily() {
