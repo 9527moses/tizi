@@ -72,6 +72,10 @@
 | TAG | 多地区 / 游戏 / 家宽 | 2026-06-07 | 观察中 | [TAG 观察版](docs/recommendations/tag-observation.md) |
 | 悠兔 | 小流量备用 / 日常 | 2026-06-07 | 观察中 | [悠兔 观察版](docs/recommendations/youtu-observation.md) |
 | 唯兔云 | 低门槛 / 流媒体 | 2026-06-07 | 观察中 | [唯兔云 观察版](docs/recommendations/weitu-observation.md) |
+| 网际快车 | 住宅 IP / 不限时 / 多设备 | 2026-06-08 | 观察中 | [网际快车 观察版](docs/recommendations/wangjikuaiche-observation.md) |
+| 全球云 | 三网优化 / 大流量 / 流媒体 | 2026-06-08 | 观察中 | [全球云 观察版](docs/recommendations/quanqiuyun-observation.md) |
+| 极连云 | 低门槛专线 / 年付 / 出海 | 2026-06-08 | 观察中 | [极连云 观察版](docs/recommendations/jilianyun-observation.md) |
+| U1S1 | 不限设备 / IPLC / AI 流媒体 | 2026-06-08 | 观察中 | [U1S1 观察版](docs/recommendations/u1s1-observation.md) |
 
 ## 先按你的需求进入
 
@@ -161,6 +165,10 @@
 - [悠兔 观察版：小流量备用路线值不值得继续看](docs/recommendations/youtu-observation.md)
 - [唯兔云 观察版：低门槛流媒体路线为什么值得留意](docs/recommendations/weitu-observation.md)
 - [Fastlink 观察版：日常与观影路线的候选位](docs/recommendations/fastlink-observation.md)
+- [网际快车 观察版：住宅 IP 与不限时备用路线值不值得看](docs/recommendations/wangjikuaiche-observation.md)
+- [全球云 观察版：大流量与流媒体路线为什么值得留意](docs/recommendations/quanqiuyun-observation.md)
+- [极连云 观察版：低门槛专线和年付轻量路线值不值得看](docs/recommendations/jilianyun-observation.md)
+- [U1S1 观察版：不限设备与 AI 流媒体重度路线为什么值得看](docs/recommendations/u1s1-observation.md)
 
 ## 按场景阅读
 

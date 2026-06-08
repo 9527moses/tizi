@@ -79,6 +79,18 @@ detail_path_for_name() {
     "大哥云")
       printf '%s' "dageyun-observation.md"
       ;;
+    "网际快车")
+      printf '%s' "wangjikuaiche-observation.md"
+      ;;
+    "全球云")
+      printf '%s' "quanqiuyun-observation.md"
+      ;;
+    "极连云")
+      printf '%s' "jilianyun-observation.md"
+      ;;
+    "U1S1")
+      printf '%s' "u1s1-observation.md"
+      ;;
     *)
       printf '%s' ""
       ;;

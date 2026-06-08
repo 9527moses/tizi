@@ -1,8 +1,8 @@
 # 2026 机场推荐：稳定好用的翻墙机场、VPN 替代路线怎么选
 
-更新日期：2026-06-07
+更新日期：2026-06-08
 
-最后检查时间：2026-06-07
+最后检查时间：2026-06-08
 
 推荐状态：持续更新中
 
@@ -156,6 +156,7 @@
 - `2026-06-07`：新增 翻墙老是掉线怎么办 / ChatGPT 转圈怎么办 / OpenClash 导入订阅失败怎么办 / iPhone VPN 已连接但打不开怎么办 4 个问题型大词页
 - `2026-06-07`：新增 Roxi 连上了但打不开怎么办 / Roxi ChatGPT 转圈怎么办 / Roxi OpenClash 导入失败怎么办 / Roxi iPhone 已连接但打不开怎么办 4 个问题型品牌词页
 - `2026-06-07`：新增 科学上网故障排查首页，把掉线 / ChatGPT / OpenClash / iPhone / Roxi 问题页统一收口
+- `2026-06-08`：第二批候补池继续扩到 15 个可读位，新增网际快车 / 全球云 / 极连云 / U1S1 四个观察页，补齐住宅 IP、大流量、低门槛专线和不限设备路线
 
 ## 推荐速览
 
@@ -379,7 +380,7 @@
 
 当前第二批候补池：
 
-- 已补观察页：[奈云 观察版：老牌路线为什么值得继续看](nayun-observation.md)、[XXYUN 观察版：日常与性价比路线的候选位](xxyun-observation.md)、[flybit 观察版：偏日常与备用路线的候选位](flybit-observation.md)、[WgetCloud 观察版：高预算稳定路线为什么值得看](wgetcloud-observation.md)、[TAG 观察版：多地区与游戏路线的候选位](tag-observation.md)、[Nexitally 观察版：高端主力路线为什么值得单独观察](nexitally-observation.md)、[BoostNet 观察版：高配备用路线值不值得继续看](boostnet-observation.md)、[悠兔 观察版：小流量备用路线值不值得继续看](youtu-observation.md)、[唯兔云 观察版：低门槛流媒体路线为什么值得留意](weitu-observation.md)、[Fastlink 观察版：日常与观影路线的候选位](fastlink-observation.md)、[大哥云 观察版：试用路线和客户端限制值不值得看](dageyun-observation.md)
+- 已补观察页：[奈云 观察版：老牌路线为什么值得继续看](nayun-observation.md)、[XXYUN 观察版：日常与性价比路线的候选位](xxyun-observation.md)、[flybit 观察版：偏日常与备用路线的候选位](flybit-observation.md)、[WgetCloud 观察版：高预算稳定路线为什么值得看](wgetcloud-observation.md)、[TAG 观察版：多地区与游戏路线的候选位](tag-observation.md)、[Nexitally 观察版：高端主力路线为什么值得单独观察](nexitally-observation.md)、[BoostNet 观察版：高配备用路线值不值得继续看](boostnet-observation.md)、[悠兔 观察版：小流量备用路线值不值得继续看](youtu-observation.md)、[唯兔云 观察版：低门槛流媒体路线为什么值得留意](weitu-observation.md)、[Fastlink 观察版：日常与观影路线的候选位](fastlink-observation.md)、[大哥云 观察版：试用路线和客户端限制值不值得看](dageyun-observation.md)、[网际快车 观察版：住宅 IP 与不限时备用路线值不值得看](wangjikuaiche-observation.md)、[全球云 观察版：大流量与流媒体路线为什么值得留意](quanqiuyun-observation.md)、[极连云 观察版：低门槛专线和年付轻量路线值不值得看](jilianyun-observation.md)、[U1S1 观察版：不限设备与 AI 流媒体重度路线为什么值得看](u1s1-observation.md)
 - 当前待建页：暂无
 
 ### 怎么用这套三级导航
@@ -410,6 +411,10 @@
 | 悠兔 | 第三级：第二批候补池 | 观察中 | 2026-06-07 | 2026-06-07 | 已同步 | [查看](youtu-observation.md) |
 | 唯兔云 | 第三级：第二批候补池 | 观察中 | 2026-06-07 | 2026-06-07 | 已同步 | [查看](weitu-observation.md) |
 | Fastlink | 第三级：第二批候补池 | 观察中 | 2026-06-07 | 2026-06-07 | 已同步 | [查看](fastlink-observation.md) |
+| 网际快车 | 第三级：第二批候补池 | 观察中 | 2026-06-08 | 2026-06-08 | 已同步 | [查看](wangjikuaiche-observation.md) |
+| 全球云 | 第三级：第二批候补池 | 观察中 | 2026-06-08 | 2026-06-08 | 已同步 | [查看](quanqiuyun-observation.md) |
+| 极连云 | 第三级：第二批候补池 | 观察中 | 2026-06-08 | 2026-06-08 | 已同步 | [查看](jilianyun-observation.md) |
+| U1S1 | 第三级：第二批候补池 | 观察中 | 2026-06-08 | 2026-06-08 | 已同步 | [查看](u1s1-observation.md) |
 
 ### 这个联动区怎么读
 
@@ -512,6 +517,10 @@
 | 唯兔云 | 低门槛与流媒体候选位 | 观察中 | [查看](weitu-observation.md) |
 | Fastlink | 日常与观影平衡候选位 | 观察中 | [查看](fastlink-observation.md) |
 | 大哥云 | 试用路线与客户端限制候选位 | 观察中 | [查看](dageyun-observation.md) |
+| 网际快车 | 住宅 IP 与不限时备用候选位 | 观察中 | [查看](wangjikuaiche-observation.md) |
+| 全球云 | 大流量与流媒体日常候选位 | 观察中 | [查看](quanqiuyun-observation.md) |
+| 极连云 | 低门槛专线与年付轻量候选位 | 观察中 | [查看](jilianyun-observation.md) |
+| U1S1 | 不限设备与 AI 流媒体重度候选位 | 观察中 | [查看](u1s1-observation.md) |
 
 ### 第二批候补位怎么用
 
@@ -524,6 +533,10 @@
 - 想看低门槛和流媒体路线：先看 `唯兔云`
 - 想看日常与观影的平衡路线：先看 `Fastlink`
 - 想看老牌试用和客户端限制路线：先看 `大哥云`
+- 想看住宅 IP 和长期备用路线：先看 `网际快车`
+- 想看大流量和流媒体主力路线：先看 `全球云`
+- 想看低门槛专线和年付轻量路线：先看 `极连云`
+- 想看不限设备和重度 AI 流媒体路线：先看 `U1S1`
 - 等我们后续补更多独立验证后，再决定是否往前提
 
 ### Roxi
