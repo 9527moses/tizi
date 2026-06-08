@@ -1,6 +1,6 @@
 # 2026 机场推荐：首页先帮你分场景，再看翻墙机场推荐与 VPN 替代路线
 
-更新日期：2026-06-07
+更新日期：2026-06-08
 
 这是一个以 `机场推荐为主`、以 `教程为辅助` 的持续更新仓库。
 
@@ -27,6 +27,28 @@
 - 核心需求是 AI，先看 `稳定性和常用地区`
 - 想做全屋代理，先看 `OpenClash 和多设备兼容`
 - 已经有主力方案，先看 `小流量备用位`
+
+## 本周更新
+
+如果你不是第一次打开这个仓库，先看这块会更省时间：
+
+- `2026-06-08`：GitHub 和 GitLab 的日更、周更、收尾自动化都已经打通，公开页后面会更稳定地带着更新痕迹往前走
+- `2026-06-08`：新增 [科学上网故障排查首页](docs/recommendations/troubleshooting-hub.md)，把掉线、ChatGPT 转圈、OpenClash 导入失败、iPhone 已连接不通收成一个入口
+- `2026-06-08`：问题页和场景页之间的联动已经补强，现在从新手、ChatGPT、路由器、设备页都能顺着跳到对应排障页
+- `2026-06-08`：周更摘要已经开始生成，后续这块会逐步变成“最近一周推荐层变化”的前台证明
+
+## 最近检查候选
+
+如果你更在意“最近到底在看哪些机场”，先看这张表：
+
+| 候选 | 主要路线 | 最近检查 | 当前状态 | 先看哪页 |
+|---|---|---|---|---|
+| Roxi | 成品型 / 少折腾 / 可扩展路由器 | 2026-06-07 | 已上线 | [Roxi 评测](docs/recommendations/roxi-review.md) |
+| 隐云 | 成品感 + 通用订阅双模式 | 2026-06-07 | 观察中 | [隐云 观察版](docs/recommendations/yinyun-observation.md) |
+| WgetCloud | 高预算 / 稳定办公 | 2026-06-07 | 观察中 | [WgetCloud 观察版](docs/recommendations/wgetcloud-observation.md) |
+| TAG | 多地区 / 游戏 / 家宽 | 2026-06-07 | 观察中 | [TAG 观察版](docs/recommendations/tag-observation.md) |
+| 悠兔 | 小流量备用 / 日常 | 2026-06-07 | 观察中 | [悠兔 观察版](docs/recommendations/youtu-observation.md) |
+| 唯兔云 | 低门槛 / 流媒体 | 2026-06-07 | 观察中 | [唯兔云 观察版](docs/recommendations/weitu-observation.md) |
 
 ## 先按你的需求进入
 
