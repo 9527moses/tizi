@@ -24,6 +24,10 @@
   自动刷新的维护运营面板
 - [research/ops-today.md](ops-today.md)
   自动刷新的今日维护摘要
+- [research/outreach-playbook.md](outreach-playbook.md)
+  外链留言投放手册
+- [research/outreach-tracking-board.md](outreach-tracking-board.md)
+  外链留言追踪表
 - [research/daily/README.md](daily/README.md)
   日更记录说明
 - [research/weekly/README.md](weekly/README.md)
