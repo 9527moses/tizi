@@ -28,6 +28,8 @@
   外链留言投放手册
 - [research/outreach-tracking-board.md](outreach-tracking-board.md)
   外链留言追踪表
+- [research/outreach-7day-review-2026-06-16.md](outreach-7day-review-2026-06-16.md)
+  外链留言首批 7 天回看清单
 - [research/daily/README.md](daily/README.md)
   日更记录说明
 - [research/weekly/README.md](weekly/README.md)

@@ -28,5 +28,5 @@
 ## 详细看板入口
 
 - [维护运营面板](maintenance-dashboard.md)
-- [今日检查记录](daily/README.md)
+- [今日检查记录](daily/2026-06-10.md)
 - [候选状态总表](candidate-status-board.md)
