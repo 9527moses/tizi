@@ -12,6 +12,8 @@
 - `最新机场推荐`
 - `机场推荐 2026`
 - `2026年6月机场推荐`
+- `机场推荐避坑`
+- `机场推荐对比`
 - `稳定机场推荐`
 - `免费梯子推荐`
 - `中转机场和直连机场怎么选`
@@ -75,6 +77,8 @@
 | 小流量 / 备用位 | [小流量机场推荐](small-traffic-airport-recommendations.md) | 已有主力，想补第二线路的人 |
 | 观影 / 日常平衡 | [流媒体机场推荐](streaming-airport-recommendations.md) | 想把看剧和日常放在一起考虑的人 |
 | 2026 年 6 月更新 | [2026年6月机场推荐更新](june-2026-stable-airport-watchlist.md) | 想看近期值得观察的稳定机场名单的人 |
+| 买前避坑 | [机场推荐避坑清单 2026](airport-pitfall-checklist-2026.md) | 担心第一次买机场踩坑、想先看风险的人 |
+| 路线对比 | [2026年6月机场推荐路线对比](june-2026-airport-route-comparison.md) | 想横向比较 Roxi、隐云、WgetCloud、Fastlink 等路线的人 |
 | 翻墙机场推荐 | [翻墙机场推荐](cross-border-airport-recommendations.md) | 想找更像“大词总入口”的人 |
 | VPN 替代路线 | [VPN替代推荐](vpn-alternatives-recommendations.md) | 想知道为什么现在很多人不再优先选传统 VPN 的人 |
 
@@ -162,6 +166,7 @@
 - `2026-06-07`：新增 科学上网故障排查首页，把掉线 / ChatGPT / OpenClash / iPhone / Roxi 问题页统一收口
 - `2026-06-08`：第二批候补池继续扩到 15 个可读位，新增网际快车 / 全球云 / 极连云 / U1S1 四个观察页，补齐住宅 IP、大流量、低门槛专线和不限设备路线
 - `2026-06-13`：新增 [2026年6月机场推荐更新](june-2026-stable-airport-watchlist.md)，把 `最新机场推荐`、`机场推荐 2026`、`稳定机场推荐` 这类搜索入口单独收口
+- `2026-06-13`：新增 [机场推荐避坑清单 2026](airport-pitfall-checklist-2026.md) 和 [2026年6月机场推荐路线对比](june-2026-airport-route-comparison.md)，补齐买前风险判断和候选横向对比入口
 
 ## 推荐速览
 

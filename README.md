@@ -27,6 +27,8 @@
 - `最新机场推荐`
 - `机场推荐 2026`
 - `2026年6月机场推荐`
+- `机场推荐避坑`
+- `机场推荐对比`
 - `稳定机场推荐`
 - `翻墙机场推荐`
 - `VPN 替代推荐`
@@ -59,6 +61,7 @@
 如果你不是第一次打开这个仓库，先看这块会更省时间：
 
 - `2026-06-13`：新增 [2026年6月机场推荐更新：近期值得观察的稳定机场名单](docs/recommendations/june-2026-stable-airport-watchlist.md)，专门承接 `最新机场推荐`、`机场推荐 2026`、`稳定机场推荐` 这类搜索入口
+- `2026-06-13`：新增 [机场推荐避坑清单 2026](docs/recommendations/airport-pitfall-checklist-2026.md) 和 [2026年6月机场推荐路线对比](docs/recommendations/june-2026-airport-route-comparison.md)，补上“买前避坑”和“候选怎么横向对比”两类转化前内容
 - `2026-06-08`：GitHub 和 GitLab 的日更、周更、收尾自动化都已经打通，公开页后面会更稳定地带着更新痕迹往前走
 - `2026-06-08`：新增 [科学上网故障排查首页](docs/recommendations/troubleshooting-hub.md)，把掉线、ChatGPT 转圈、OpenClash 导入失败、iPhone 已连接不通收成一个入口
 - `2026-06-08`：问题页和场景页之间的联动已经补强，现在从新手、ChatGPT、路由器、设备页都能顺着跳到对应排障页
@@ -94,6 +97,8 @@
 | 已有主力，只想补备用位 | [小流量机场推荐](docs/recommendations/small-traffic-airport-recommendations.md) | 先补第二线路，不和主力路线混在一起挑 |
 | 想兼顾看剧和日常 | [流媒体机场推荐](docs/recommendations/streaming-airport-recommendations.md) | 先看观影和日常能不能同时兼顾 |
 | 想看近期更新名单 | [2026年6月机场推荐更新](docs/recommendations/june-2026-stable-airport-watchlist.md) | 更像“最新机场推荐”的搜索入口，先看近期值得观察的稳定路线 |
+| 担心第一次买踩坑 | [机场推荐避坑清单 2026](docs/recommendations/airport-pitfall-checklist-2026.md) | 先看年付、测速图、低价、客户端兼容这些风险 |
+| 想横向对比几条路线 | [2026年6月机场推荐路线对比](docs/recommendations/june-2026-airport-route-comparison.md) | 把 Roxi、隐云、WgetCloud、Fastlink 等路线按场景拆开看 |
 | 想直接看大词入口 | [翻墙机场推荐](docs/recommendations/cross-border-airport-recommendations.md) / [VPN替代推荐](docs/recommendations/vpn-alternatives-recommendations.md) | 更像搜索首页入口，适合先做总判断 |
 
 ## 当前热门路线速览
@@ -131,7 +136,7 @@
 1. [2026 机场推荐总页：新手、ChatGPT、路由器场景怎么选](docs/recommendations/airport-guide-2026.md)
 2. [推荐导航页：先看场景，再看具体机场](docs/recommendations/README.md)
 3. [2026年6月机场推荐更新：近期值得观察的稳定机场名单](docs/recommendations/june-2026-stable-airport-watchlist.md)
-4. [翻墙机场推荐：稳定好用的外网路线怎么选](docs/recommendations/cross-border-airport-recommendations.md)
+4. [机场推荐避坑清单 2026：新手买前先看这 8 个风险](docs/recommendations/airport-pitfall-checklist-2026.md)
 
 如果你现在不是来选路线，而是已经遇到掉线、ChatGPT 转圈、OpenClash 导入失败这类问题，直接看：
 

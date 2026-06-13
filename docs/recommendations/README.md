@@ -12,6 +12,8 @@
 
 - `最新机场推荐`
 - `机场推荐 2026`
+- `机场推荐避坑`
+- `机场推荐对比`
 - `稳定机场推荐`
 - `便宜机场推荐`
 - `ChatGPT 机场推荐`
@@ -20,12 +22,13 @@
 
 那最省时间的方式不是从头往下翻，而是先从匹配你场景的入口进。
 
-## 先看这 5 个主入口
+## 先看这 6 个主入口
 
 | 入口 | 适合谁 | 直达页 |
 |---|---|---|
 | 总页 | 想先看完整分层和整体路线的人 | [2026 机场推荐：新手、ChatGPT、路由器场景怎么选](airport-guide-2026.md) |
 | 6 月更新入口 | 想看近期值得观察的稳定机场名单的人 | [2026年6月机场推荐更新：近期值得观察的稳定机场名单](june-2026-stable-airport-watchlist.md) |
+| 买前避坑入口 | 担心第一次买机场踩坑的人 | [机场推荐避坑清单 2026：新手买前先看这 8 个风险](airport-pitfall-checklist-2026.md) |
 | 新手场景 | 想少折腾、第一次就尽快跑通的人 | [新手机场推荐：第一次怎么选，不容易踩坑](beginner-airport-recommendations.md) |
 | ChatGPT 场景 | 核心需求是 AI 和稳定访问的人 | [ChatGPT 机场推荐：稳定访问更该看什么](chatgpt-airport-recommendations.md) |
 | 路由器场景 | 想做全屋代理、OpenClash 和多设备的人 | [路由器机场推荐：全屋代理和 OpenClash 怎么选](router-airport-recommendations.md) |
@@ -36,6 +39,7 @@
 
 | 场景 | 适合谁 | 直达页 |
 |---|---|---|
+| 路线横向对比 | 想在 Roxi、隐云、WgetCloud、Fastlink 等路线之间做判断的人 | [2026年6月机场推荐路线对比](june-2026-airport-route-comparison.md) |
 | 低门槛路线 | 想先看预算更敏感、门槛更低的方案的人 | [低门槛机场推荐：预算敏感用户先看什么](budget-airport-recommendations.md) |
 | 小流量备用位 | 已经有主力方案，还想补第二线路的人 | [小流量机场推荐：备用位和轻度使用怎么选](small-traffic-airport-recommendations.md) |
 | 观影与日常路线 | 想找看剧和日常一起兼顾的人 | [流媒体机场推荐：日常和观影路线怎么选](streaming-airport-recommendations.md) |
@@ -47,6 +51,8 @@
 - [科学上网故障排查首页：掉线、ChatGPT 转圈、OpenClash 导入失败先看这里](troubleshooting-hub.md)
 
 - [2026年6月机场推荐更新：近期值得观察的稳定机场名单](june-2026-stable-airport-watchlist.md)
+- [机场推荐避坑清单 2026：新手买前先看这 8 个风险](airport-pitfall-checklist-2026.md)
+- [2026年6月机场推荐路线对比：Roxi、隐云、WgetCloud、Fastlink 怎么选](june-2026-airport-route-comparison.md)
 - [便宜机场推荐靠谱吗：为什么不要只看价格](cheap-airport-recommendations-worth-it.md)
 - [机场推荐为什么不要只看测速图](why-not-just-look-at-speed-tests.md)
 - [稳定机场推荐怎么选：比便宜更重要的是什么](stable-airport-recommendations-how-to-choose.md)

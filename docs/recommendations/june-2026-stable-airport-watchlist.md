@@ -36,6 +36,8 @@
 - [WgetCloud 观察版：高预算稳定路线为什么值得看](wgetcloud-observation.md)
 - [Fastlink 观察版：日常与观影路线的候选位](fastlink-observation.md)
 
+如果你准备下单前还想再稳一点，先看 [机场推荐避坑清单 2026](airport-pitfall-checklist-2026.md)；如果你想把几条路线横向放在一起比，先看 [2026年6月机场推荐路线对比](june-2026-airport-route-comparison.md)。
+
 ## 这页怎么读
 
 如果你是新手，不建议一上来就把所有名字都打开。更省时间的顺序是：
@@ -139,6 +141,8 @@
 ## 继续阅读
 
 - [2026 机场推荐：新手、ChatGPT、路由器场景怎么选](airport-guide-2026.md)
+- [机场推荐避坑清单 2026：新手买前先看这 8 个风险](airport-pitfall-checklist-2026.md)
+- [2026年6月机场推荐路线对比：Roxi、隐云、WgetCloud、Fastlink 怎么选](june-2026-airport-route-comparison.md)
 - [翻墙机场推荐：稳定好用的外网路线怎么选](cross-border-airport-recommendations.md)
 - [VPN替代推荐：为什么越来越多人改用机场路线](vpn-alternatives-recommendations.md)
 - [机场推荐试用一周怎么判断](one-week-trial-checklist.md)
