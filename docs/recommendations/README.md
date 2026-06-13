@@ -1,6 +1,6 @@
 # 机场推荐导航页：先看场景，再看具体机场
 
-更新日期：2026-06-07
+更新日期：2026-06-13
 
 如果你打开这个仓库只是想找一个“机场推荐入口”，最省时间的读法不是先翻教程，而是先按自己的场景进入，再决定要不要看具体机场页。
 
@@ -10,6 +10,8 @@
 
 如果你是搜下面这些词进来的：
 
+- `最新机场推荐`
+- `机场推荐 2026`
 - `稳定机场推荐`
 - `便宜机场推荐`
 - `ChatGPT 机场推荐`
@@ -18,11 +20,12 @@
 
 那最省时间的方式不是从头往下翻，而是先从匹配你场景的入口进。
 
-## 先看这 4 个主入口
+## 先看这 5 个主入口
 
 | 入口 | 适合谁 | 直达页 |
 |---|---|---|
 | 总页 | 想先看完整分层和整体路线的人 | [2026 机场推荐：新手、ChatGPT、路由器场景怎么选](airport-guide-2026.md) |
+| 6 月更新入口 | 想看近期值得观察的稳定机场名单的人 | [2026年6月机场推荐更新：近期值得观察的稳定机场名单](june-2026-stable-airport-watchlist.md) |
 | 新手场景 | 想少折腾、第一次就尽快跑通的人 | [新手机场推荐：第一次怎么选，不容易踩坑](beginner-airport-recommendations.md) |
 | ChatGPT 场景 | 核心需求是 AI 和稳定访问的人 | [ChatGPT 机场推荐：稳定访问更该看什么](chatgpt-airport-recommendations.md) |
 | 路由器场景 | 想做全屋代理、OpenClash 和多设备的人 | [路由器机场推荐：全屋代理和 OpenClash 怎么选](router-airport-recommendations.md) |
@@ -43,6 +46,7 @@
 
 - [科学上网故障排查首页：掉线、ChatGPT 转圈、OpenClash 导入失败先看这里](troubleshooting-hub.md)
 
+- [2026年6月机场推荐更新：近期值得观察的稳定机场名单](june-2026-stable-airport-watchlist.md)
 - [便宜机场推荐靠谱吗：为什么不要只看价格](cheap-airport-recommendations-worth-it.md)
 - [机场推荐为什么不要只看测速图](why-not-just-look-at-speed-tests.md)
 - [稳定机场推荐怎么选：比便宜更重要的是什么](stable-airport-recommendations-how-to-choose.md)

@@ -1,6 +1,6 @@
 # 2026 机场推荐：首页先帮你分场景，再看翻墙机场推荐与 VPN 替代路线
 
-更新日期：2026-06-08
+更新日期：2026-06-13
 
 这是一个以 `机场推荐为主`、以 `教程为辅助` 的持续更新仓库。
 
@@ -24,6 +24,9 @@
 如果你是从搜索进来的，搜的大概率是这些词：
 
 - `机场推荐`
+- `最新机场推荐`
+- `机场推荐 2026`
+- `2026年6月机场推荐`
 - `稳定机场推荐`
 - `翻墙机场推荐`
 - `VPN 替代推荐`
@@ -55,6 +58,7 @@
 
 如果你不是第一次打开这个仓库，先看这块会更省时间：
 
+- `2026-06-13`：新增 [2026年6月机场推荐更新：近期值得观察的稳定机场名单](docs/recommendations/june-2026-stable-airport-watchlist.md)，专门承接 `最新机场推荐`、`机场推荐 2026`、`稳定机场推荐` 这类搜索入口
 - `2026-06-08`：GitHub 和 GitLab 的日更、周更、收尾自动化都已经打通，公开页后面会更稳定地带着更新痕迹往前走
 - `2026-06-08`：新增 [科学上网故障排查首页](docs/recommendations/troubleshooting-hub.md)，把掉线、ChatGPT 转圈、OpenClash 导入失败、iPhone 已连接不通收成一个入口
 - `2026-06-08`：问题页和场景页之间的联动已经补强，现在从新手、ChatGPT、路由器、设备页都能顺着跳到对应排障页
@@ -89,6 +93,7 @@
 | 预算更敏感 | [低门槛机场推荐](docs/recommendations/budget-airport-recommendations.md) | 先看门槛和长期使用限制，而不是只看价格 |
 | 已有主力，只想补备用位 | [小流量机场推荐](docs/recommendations/small-traffic-airport-recommendations.md) | 先补第二线路，不和主力路线混在一起挑 |
 | 想兼顾看剧和日常 | [流媒体机场推荐](docs/recommendations/streaming-airport-recommendations.md) | 先看观影和日常能不能同时兼顾 |
+| 想看近期更新名单 | [2026年6月机场推荐更新](docs/recommendations/june-2026-stable-airport-watchlist.md) | 更像“最新机场推荐”的搜索入口，先看近期值得观察的稳定路线 |
 | 想直接看大词入口 | [翻墙机场推荐](docs/recommendations/cross-border-airport-recommendations.md) / [VPN替代推荐](docs/recommendations/vpn-alternatives-recommendations.md) | 更像搜索首页入口，适合先做总判断 |
 
 ## 当前热门路线速览
@@ -121,11 +126,12 @@
 
 ## 最重要的总入口
 
-如果你只打算收藏 3 个页面，优先留这 3 个：
+如果你只打算收藏几个页面，优先留这 4 个：
 
 1. [2026 机场推荐总页：新手、ChatGPT、路由器场景怎么选](docs/recommendations/airport-guide-2026.md)
 2. [推荐导航页：先看场景，再看具体机场](docs/recommendations/README.md)
-3. [翻墙机场推荐：稳定好用的外网路线怎么选](docs/recommendations/cross-border-airport-recommendations.md)
+3. [2026年6月机场推荐更新：近期值得观察的稳定机场名单](docs/recommendations/june-2026-stable-airport-watchlist.md)
+4. [翻墙机场推荐：稳定好用的外网路线怎么选](docs/recommendations/cross-border-airport-recommendations.md)
 
 如果你现在不是来选路线，而是已经遇到掉线、ChatGPT 转圈、OpenClash 导入失败这类问题，直接看：
 
